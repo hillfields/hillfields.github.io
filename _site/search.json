@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Clustering Analysis on Country Data | R | code, vignette\n\nImplemented unsupervised clustering methods to group countries based on socioeconomic and health conditions\n\nModeling Japan’s Activity Rates in the 21st Century | R | code, report\n\nModeled and forecasted monthly activity rates in Japan for the years 2000-2021 using time series data\n\nAnalyzing the 2020 Presidential Election | R | report\n\nExplored the relationship between census data and the 2020 election results\nExperimented with several classification models to predict the winning candidate for each county\n\nPredicting Data Science and STEM Salaries with Permutation Tests and Bootstrapping | R | report\n\nUsed Monte Carlo methods to predict data science and STEM salaries"
+  },
+  {
+    "objectID": "projects.html#python",
+    "href": "projects.html#python",
+    "title": "Projects",
+    "section": "Python",
+    "text": "Python\n\nBingo Analysis | Python | code\n\nSimulated bingo games to determine how often different types of bingos occur\n\nLyrics Frequency Visualizer | Python | code\n\nMade a simple app to access the Spotify API, scrape Japanese song lyrics, and visualize their word frequencies"
+  },
+  {
+    "objectID": "projects.html#creative-coding",
+    "href": "projects.html#creative-coding",
+    "title": "Projects",
+    "section": "Creative Coding",
+    "text": "Creative Coding\n\nArt Portfolio | Processing / Java | code, site\n\nCreated interactive art pieces using the graphics library Processing in Java\nDesigned the website to host the projects from scratch using HTML/CSS\n\nLanguage Learning Game | Godot | code\n\nWorked with other students to build a game for learning Mixtec\n\nInteractive Audio Projects | Max | site\n\nUtilized the visual programming language Max for several creative music projects\n\nAmerican Buddhist Meditation Temple StoryMap | ArcGIS StoryMaps | site\n\nCollaborated with other students to map the history of the American Buddhist Meditation Temple in Santa Barbara, CA"
+  },
+  {
+    "objectID": "projects.html#linguistics",
+    "href": "projects.html#linguistics",
+    "title": "Projects",
+    "section": "Linguistics",
+    "text": "Linguistics\n\nPhonetic Description of Japanese | report\n\nResearched the basic phonology of Japanese, including its pitch accent patterns"
+  },
+  {
+    "objectID": "mus-109ca.html",
+    "href": "mus-109ca.html",
+    "title": "Interactive Audio Projects",
+    "section": "",
+    "text": "Over the course of 6 weeks, I learned how to use Max, a visual programming environment for music and multimedia. Despite not having much knowledge in music theory/production, I came out of this class with several projects that I am quite proud of."
+  },
+  {
+    "objectID": "mus-109ca.html#assignment-1-note-generator",
+    "href": "mus-109ca.html#assignment-1-note-generator",
+    "title": "Interactive Audio Projects",
+    "section": "Assignment 1: Note Generator",
+    "text": "Assignment 1: Note Generator\nGenerates random notes within a major scale, with the scale changing every 4 seconds."
+  },
+  {
+    "objectID": "mus-109ca.html#assignment-2-synthesizer",
+    "href": "mus-109ca.html#assignment-2-synthesizer",
+    "title": "Interactive Audio Projects",
+    "section": "Assignment 2: Synthesizer",
+    "text": "Assignment 2: Synthesizer\nSynthesizer that incorporates oscillation, filters, and modulation."
+  },
+  {
+    "objectID": "mus-109ca.html#assignment-3-variable-rate-sampler-instrument",
+    "href": "mus-109ca.html#assignment-3-variable-rate-sampler-instrument",
+    "title": "Interactive Audio Projects",
+    "section": "Assignment 3: Variable-rate Sampler Instrument",
+    "text": "Assignment 3: Variable-rate Sampler Instrument\nSampler using audio files and recordings."
+  },
+  {
+    "objectID": "mus-109ca.html#final-project-sequence-generators",
+    "href": "mus-109ca.html#final-project-sequence-generators",
+    "title": "Interactive Audio Projects",
+    "section": "Final Project: Sequence Generators",
+    "text": "Final Project: Sequence Generators\nGenerates random sequences of notes based on a Markov chain model, which is then passed through a synthesizer."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "I am a Statistics and Data Science major and Linguistics minor at UCSB.\nMy interests include writing code that other people can understand, listening to music (despite not being able to play any instruments), and learning Japanese.\nI am most familiar with R and Python, though I have some experience with SQLite and Java from my coursework. I also have a page dedicated to my projects.\nI am currently an Undergraduate Learning Assistant for both the PSTAT and CMPSC departments, helping students in introductory statistics and data science classes.\nI am also a 3-time recipient of the Creative Computing Scholarship, which has given me the opportunity to learn how technology can be uniquely integrated in different domains – see some of these projects here."
+  },
+  {
+    "objectID": "index.html#links",
+    "href": "index.html#links",
+    "title": "Home",
+    "section": "Links",
+    "text": "Links\n\nGitHub\nResume\nEmail: justintliu@ucsb.edu"
+  }
+]

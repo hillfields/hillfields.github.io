@@ -1,0 +1,21 @@
+---
+title: "Home"
+---
+
+## About
+
+I am a Statistics and Data Science major and Linguistics minor at UCSB.
+
+My interests include writing code that other people can understand, listening to music (despite not being able to play any instruments), and learning Japanese.
+
+I am most familiar with R and Python, though I have some experience with SQLite and Java from my [coursework](courses.html). I also have a page dedicated to my [projects](projects.html).
+
+I am currently an Undergraduate Learning Assistant for both the PSTAT and CMPSC departments, helping students in introductory statistics and data science classes.
+
+I am also a 3-time recipient of the [Creative Computing Scholarship](https://summer.ucsb.edu/courses/course-spotlight/creative-computing), which has given me the opportunity to learn how technology can be uniquely integrated in different domains -- see some of these projects [here](projects.html#creative-coding).
+
+## Links
+
+-   [**GitHub**](https://github.com/hillfields)
+-   [**Resume**](../docs/resume.pdf)
+-   **Email:** justintliu\@ucsb.edu

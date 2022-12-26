@@ -1,0 +1,56 @@
+---
+title: "Courses"
+---
+
+```{r, include=FALSE}
+library(kableExtra)
+
+python_text <- function() text_spec("Python", color = "green")
+
+r_text <- function() text_spec("R", color = "#ff9600")
+```
+
+## Computer Science
+
+-   **CMPSC 8:** Introduction to Computer Science (`r python_text()`)
+-   **CMPSC 9:** Intermediate Python (`r python_text()`)
+
+## Statistics and Data Science
+
+-   **CMPSC 5A-B:** Introduction to Data Science (`r python_text()`)
+-   **PSTAT 10:** Data Science Principles (`r r_text()` & `r text_spec("SQLite", color = "#F8766D")`)
+-   **PSTAT 120A-B:** Probability and Statistics
+-   **PSTAT 122:** Design and Analysis of Experiments
+-   **PSTAT 126:** Regression Analysis (`r r_text()`)
+-   **PSTAT 127:** Advanced Statistical Models (`r r_text()`)
+-   **PSTAT 131:** Statistical Machine Learning (`r r_text()`)
+-   **PSTAT 134:** Statistical Data Science (`r r_text()`)
+-   **PSTAT 160A:** Stochastic Processes (`r python_text()`)
+-   **PSTAT 174:** Time Series (`r r_text()`)
+-   **PSTAT 190:** Teaching and Mentoring Statistics and Data Science
+-   **PSTAT 194CS:** Computational Statistics (`r r_text()`)
+-   **PSTAT 197A:** Data Science Capstone (`r r_text()`)
+
+## Math
+
+-   **MATH 4A:** Linear Algebra
+-   **MATH 4B:** Differential Equations
+-   **MATH 6A:** Vector Calculus
+-   **MATH 8:** Transition to Higher Mathematics
+-   **MATH 117:** Methods of Analysis
+
+## Creative Coding
+
+-   **ART 22:** Computer Programming for the Arts (`r text_spec("Processing / Java", color = "red")`)
+-   **LING 194:** Beyond Duolingo: Digital Games for Language Learning (`r text_spec("Godot", color = "purple")`)
+-   **MUS 109CA:** Introduction to Interactive Audio (`r text_spec("Max", color = "#f1c232")`)
+-   **RG ST 190DM:** Transnational Buddhism through Digital Mapping (`r text_spec("ArcGIS StoryMaps", color = "#82bef7")`)
+
+## Linguistics
+
+-   **LING 20:** Language And Linguistics
+-   **LING 102:** Programming for Linguists (`r python_text()`)
+-   **LING 104:** Statistical Methods in Linguistics (`r r_text()`)
+-   **LING 105:** Predictive Modeling in Linguistics (`r r_text()`)
+-   **LING 106:** Introduction to Phonology
+-   **LING 110:** Foundations of Computational Linguistics (`r python_text()`)
