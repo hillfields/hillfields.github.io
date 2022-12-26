@@ -17,5 +17,5 @@ I am also a 3-time recipient of the [Creative Computing Scholarship](https://sum
 ## Links
 
 -   [**GitHub**](https://github.com/hillfields)
--   [**Resume**](../files/resume.pdf)
+-   [**Resume**](files/resume.pdf)
 -   **Email:** justintliu\@ucsb.edu

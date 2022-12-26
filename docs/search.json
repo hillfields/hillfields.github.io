@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "I am a Statistics and Data Science major and Linguistics minor at UCSB.\nMy interests include writing code that other people can understand, listening to music (despite not being able to play any instruments), and learning Japanese.\nI am most familiar with R and Python, though I have some experience with SQLite and Java from my coursework. I also have a page dedicated to my projects.\nI am currently an Undergraduate Learning Assistant for both the PSTAT and CMPSC departments, helping students in introductory statistics and data science classes.\nI am also a 3-time recipient of the Creative Computing Scholarship, which has given me the opportunity to learn how technology can be uniquely integrated in different domains – see some of these projects here."
-  },
-  {
-    "objectID": "index.html#links",
-    "href": "index.html#links",
-    "title": "Home",
-    "section": "Links",
-    "text": "Links\n\nGitHub\nResume\nEmail: justintliu@ucsb.edu"
-  },
-  {
     "objectID": "courses.html",
     "href": "courses.html",
     "title": "Courses",
@@ -75,6 +61,20 @@
     "title": "Projects",
     "section": "Linguistics",
     "text": "Linguistics\n\nPhonetic Description of Japanese | report\n\nResearched the basic phonology of Japanese, including its pitch accent patterns"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "I am a Statistics and Data Science major and Linguistics minor at UCSB.\nMy interests include writing code that other people can understand, listening to music (despite not being able to play any instruments), and learning Japanese.\nI am most familiar with R and Python, though I have some experience with SQLite and Java from my coursework. I also have a page dedicated to my projects.\nI am currently an Undergraduate Learning Assistant for both the PSTAT and CMPSC departments, helping students in introductory statistics and data science classes.\nI am also a 3-time recipient of the Creative Computing Scholarship, which has given me the opportunity to learn how technology can be uniquely integrated in different domains – see some of these projects here."
+  },
+  {
+    "objectID": "index.html#links",
+    "href": "index.html#links",
+    "title": "Home",
+    "section": "Links",
+    "text": "Links\n\nGitHub\nResume\nEmail: justintliu@ucsb.edu"
   },
   {
     "objectID": "mus-109ca.html",
