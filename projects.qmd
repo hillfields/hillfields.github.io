@@ -12,14 +12,14 @@ r_text <- function() text_spec("R", color = "#ff9600")
 
 ## R
 
--   **Clustering Analysis on Country Data** \| `r r_text()` \| [code](https://github.com/pstat197/vignette-clustering-methods), [vignette](../docs/clustering-vignette.html)
+-   **Clustering Analysis on Country Data** \| `r r_text()` \| [code](https://github.com/pstat197/vignette-clustering-methods), [vignette](../files/clustering-vignette.html)
     -   Implemented unsupervised clustering methods to group countries based on socioeconomic and health conditions
--   **Modeling Japan's Activity Rates in the 21st Century** \| `r r_text()` \| [code](https://github.com/hillfields/PSTAT-174-Time-Series), [report](../docs/modeling-activity-rates.pdf)
+-   **Modeling Japan's Activity Rates in the 21st Century** \| `r r_text()` \| [code](https://github.com/hillfields/PSTAT-174-Time-Series), [report](../files/modeling-activity-rates.pdf)
     -   Modeled and forecasted monthly activity rates in Japan for the years 2000-2021 using time series data
--   **Analyzing the 2020 Presidential Election** \| `r r_text()` \| [report](../docs/election-analysis.html)
+-   **Analyzing the 2020 Presidential Election** \| `r r_text()` \| [report](../files/election-analysis.html)
     -   Explored the relationship between census data and the 2020 election results
     -   Experimented with several classification models to predict the winning candidate for each county
--   **Predicting Data Science and STEM Salaries with Permutation Tests and Bootstrapping** \| `r r_text()` \| [report](../docs/mc-simulation-salaries.pdf)
+-   **Predicting Data Science and STEM Salaries with Permutation Tests and Bootstrapping** \| `r r_text()` \| [report](../files/mc-simulation-salaries.pdf)
     -   Used Monte Carlo methods to predict data science and STEM salaries
 
 ## Python
