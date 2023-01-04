@@ -10,6 +10,12 @@ python_text <- function() text_spec("Python", color = "green")
 r_text <- function() text_spec("R", color = "#ff9600")
 ```
 
+## Currently Taking
+
+-   **PSTAT 100:** Data Science Concepts and Analysis (`r python_text()`)
+-   **PSTAT 135:** Big Data Analytics (`r python_text()`)
+-   **PSTAT 197B:** Data Science Capstone
+
 ## Computer Science
 
 -   **CMPSC 8:** Introduction to Computer Science (`r python_text()`)

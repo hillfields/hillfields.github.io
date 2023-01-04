@@ -4,15 +4,13 @@ title: "Home"
 
 ## About
 
-I am a Statistics and Data Science major and Linguistics minor at UCSB.
+I am a Statistics & Data Science major and Linguistics minor at UCSB. Currently, I serve as an Undergraduate Learning Assistant for both the PSTAT and CMPSC departments, helping students in introductory statistics and data science classes. I am also part of this year's data science capstone and will be working on an upcoming project with the [MOVE Lab](http://move.geog.ucsb.edu/).
 
-My interests include writing code that other people can understand, listening to music (despite not being able to play any instruments), and learning Japanese.
+As for coding experience, I am most familiar with R and Python, though I have some knowledge of SQLite and Java from my [coursework](courses.html). I put a lot of emphasis on making my code readable, which not only helps my future self but also other people understand what I'm doing.
 
-I am most familiar with R and Python, though I have some experience with SQLite and Java from my [coursework](courses.html). I also have a page dedicated to my [projects](projects.html).
+I enjoy applying my programming skills to areas beyond data analysis as well. I am a 3-time recipient of the [Creative Computing Scholarship](https://summer.ucsb.edu/courses/course-spotlight/creative-computing), which has given me the opportunity to learn how technology can be uniquely integrated in different domains -- see some of these projects [here](projects.html#creative-coding).
 
-I am currently an Undergraduate Learning Assistant for both the PSTAT and CMPSC departments, helping students in introductory statistics and data science classes.
-
-I am also a 3-time recipient of the [Creative Computing Scholarship](https://summer.ucsb.edu/courses/course-spotlight/creative-computing), which has given me the opportunity to learn how technology can be uniquely integrated in different domains -- see some of these projects [here](projects.html#creative-coding).
+Outside of class, my interests include listening to music and learning Japanese.
 
 ## Links
 
