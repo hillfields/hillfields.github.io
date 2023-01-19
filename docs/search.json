@@ -74,14 +74,14 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "I am a Statistics & Data Science major and Linguistics minor at UCSB. Currently, I serve as an Undergraduate Learning Assistant for both the PSTAT and CMPSC departments, helping students in introductory statistics and data science classes. I am also part of this year’s data science capstone and will be working on an upcoming project with the MOVE Lab.\nAs for coding experience, I am most familiar with R and Python, though I have some knowledge of SQLite and Java from my coursework. I put a lot of emphasis on making my code readable, which not only helps my future self but also other people understand what I’m doing.\nI enjoy applying my programming skills to areas beyond data analysis as well. I am a 3-time recipient of the Creative Computing Scholarship, which has given me the opportunity to learn how technology can be uniquely integrated in different domains – see some of these projects here.\nOutside of class, my interests include listening to music and learning Japanese."
+    "text": "Statistics & Data Science major and Linguistics minor at UCSB\nUndergraduate Learning Assistant for PSTAT 10 (Data Science Principles) and CMPSC 5A (Introduction to Data Science)\nCapstone project with the MOVE Lab"
   },
   {
     "objectID": "index.html#links",
     "href": "index.html#links",
     "title": "Home",
     "section": "Links",
-    "text": "Links\n\nGitHub\nResume\nEmail: justintliu@ucsb.edu"
+    "text": "Links\n\nGitHub\nResume\nEmail"
   },
   {
     "objectID": "mus-109ca.html",
@@ -117,5 +117,26 @@
     "title": "Interactive Audio Projects",
     "section": "Final Project: Sequence Generators",
     "text": "Final Project: Sequence Generators\nGenerates random sequences of notes based on a Markov chain model, which is then passed through a synthesizer."
+  },
+  {
+    "objectID": "index.html#certifications",
+    "href": "index.html#certifications",
+    "title": "Home",
+    "section": "Certifications",
+    "text": "Certifications\n\nData Visualization with R"
+  },
+  {
+    "objectID": "index.html#coding",
+    "href": "index.html#coding",
+    "title": "Home",
+    "section": "Coding",
+    "text": "Coding\n\nLanguages: R, Python, SQL\nCertifications: Data Visualization with R\nAwards: 3-time recipient of the Creative Computing Scholarship (see some of these projects here)"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Home",
+    "section": "Interests",
+    "text": "Interests\n\nWriting readable code\nListening to music\nLearning Japanese\nUsing bullet points"
   }
 ]
