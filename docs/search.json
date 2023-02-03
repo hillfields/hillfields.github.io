@@ -18,7 +18,7 @@
     "href": "courses.html#statistics-and-data-science",
     "title": "Courses",
     "section": "Statistics and Data Science",
-    "text": "Statistics and Data Science\n\nCMPSC 5A-B: Introduction to Data Science (Python)\nPSTAT 10: Data Science Principles (R & SQLite)\nPSTAT 120A-B: Probability and Statistics\nPSTAT 122: Design and Analysis of Experiments\nPSTAT 126: Regression Analysis (R)\nPSTAT 127: Advanced Statistical Models (R)\nPSTAT 131: Statistical Machine Learning (R)\nPSTAT 134: Statistical Data Science (R)\nPSTAT 160A: Stochastic Processes (Python)\nPSTAT 174: Time Series (R)\nPSTAT 190: Teaching and Mentoring Statistics and Data Science\nPSTAT 194CS: Computational Statistics (R)\nPSTAT 197A: Data Science Capstone (R)"
+    "text": "Statistics and Data Science\n\nCMPSC 5A-B: Introduction to Data Science (Python)\nEEMB 146: Biostatistics (R)\nPSTAT 10: Data Science Principles (R & SQLite)\nPSTAT 120A-B: Probability and Statistics\nPSTAT 122: Design and Analysis of Experiments\nPSTAT 126: Regression Analysis (R)\nPSTAT 127: Advanced Statistical Models (R)\nPSTAT 131: Statistical Machine Learning (R)\nPSTAT 134: Statistical Data Science (R)\nPSTAT 160A: Stochastic Processes (Python)\nPSTAT 174: Time Series (R)\nPSTAT 190: Teaching and Mentoring Statistics and Data Science\nPSTAT 194CS: Computational Statistics (R)\nPSTAT 197A: Data Science Capstone (R)"
   },
   {
     "objectID": "courses.html#math",
@@ -81,7 +81,7 @@
     "href": "index.html#links",
     "title": "Home",
     "section": "Links",
-    "text": "Links\n\nGitHub\nResume\nEmail"
+    "text": "Links\n\nGitHub\nEmail"
   },
   {
     "objectID": "mus-109ca.html",
@@ -130,7 +130,7 @@
     "href": "index.html#coding",
     "title": "Home",
     "section": "Coding",
-    "text": "Coding\n\nLanguages: R, Python, SQL\nCertifications: Data Visualization with R\nAwards: 3-time recipient of the Creative Computing Scholarship (see some of these projects here)"
+    "text": "Coding\n\nLanguages: R, Python, SQL\nCertifications: Data Visualization with R, Machine Learning Fundamentals with Python\nAwards: 3-time recipient of the Creative Computing Scholarship (see some of these projects here)"
   },
   {
     "objectID": "index.html#interests",

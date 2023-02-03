@@ -11,7 +11,7 @@ title: "Home"
 ## Coding
 
 -   **Languages:** R, Python, SQL
--   **Certifications:** [Data Visualization with R](https://www.datacamp.com/statement-of-accomplishment/track/20c51009d6acd3c9d7d50560026594e0608956d3)
+-   **Certifications:** [Data Visualization with R](https://www.datacamp.com/statement-of-accomplishment/track/20c51009d6acd3c9d7d50560026594e0608956d3), [Machine Learning Fundamentals with Python](https://www.datacamp.com/statement-of-accomplishment/track/3d580d351650155a010218a4e797d23f80d3fce1)
 -   **Awards:** 3-time recipient of the [Creative Computing Scholarship](https://summer.ucsb.edu/courses/course-spotlight/creative-computing) (see some of these projects [here](projects.html#creative-coding))
 
 ## Interests
@@ -24,5 +24,4 @@ title: "Home"
 ## Links
 
 -   [GitHub](https://github.com/hillfields)
--   [Resume](files/resume.pdf)
 -   [Email](mailto:justintliu@ucsb.edu)

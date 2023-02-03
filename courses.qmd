@@ -24,6 +24,7 @@ r_text <- function() text_spec("R", color = "#ff9600")
 ## Statistics and Data Science
 
 -   **CMPSC 5A-B:** Introduction to Data Science (`r python_text()`)
+-   **EEMB 146:** Biostatistics (`r r_text()`)
 -   **PSTAT 10:** Data Science Principles (`r r_text()` & `r text_spec("SQLite", color = "#F8766D")`)
 -   **PSTAT 120A-B:** Probability and Statistics
 -   **PSTAT 122:** Design and Analysis of Experiments
