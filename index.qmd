@@ -6,11 +6,14 @@ title: "Home"
 
 -   Statistics & Data Science major and Linguistics minor at UCSB
 -   Undergraduate Learning Assistant for PSTAT 10 (Data Science Principles) and CMPSC 5A (Introduction to Data Science)
+-   Undergraduate Research Assistant with the [CPLS Lab](https://ucsb-cpls-lab.github.io/)
 -   Capstone project with the [MOVE Lab](http://move.geog.ucsb.edu/)
 
 ## Coding
 
 -   **Languages:** R, Python, SQL
+-   **Libraries:** shiny, tidyverse, tidymodels, numpy, pandas, matplotlib, altair, scikit-learn, pyspark
+-   **Developer Tools:** RStudio, Jupyter, Git/GitHub, Visual Studio Code
 -   **Certifications:** [Data Visualization with R](https://www.datacamp.com/statement-of-accomplishment/track/20c51009d6acd3c9d7d50560026594e0608956d3), [Machine Learning Fundamentals with Python](https://www.datacamp.com/statement-of-accomplishment/track/3d580d351650155a010218a4e797d23f80d3fce1)
 -   **Awards:** 3-time recipient of the [Creative Computing Scholarship](https://summer.ucsb.edu/courses/course-spotlight/creative-computing) (see some of these projects [here](projects.html#creative-coding))
 
@@ -24,4 +27,3 @@ title: "Home"
 ## Links
 
 -   [GitHub](https://github.com/hillfields)
--   [Email](mailto:justintliu@ucsb.edu)

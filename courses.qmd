@@ -12,9 +12,9 @@ r_text <- function() text_spec("R", color = "#ff9600")
 
 ## Currently Taking
 
--   **PSTAT 100:** Data Science Concepts and Analysis (`r python_text()`)
--   **PSTAT 135:** Big Data Analytics (`r python_text()`)
--   **PSTAT 197B:** Data Science Capstone
+-   **LING 111:** Data Science Concepts and Analysis (`r python_text()`)
+-   **C LIT 152:** Digital Humanities Practice
+-   **PSTAT 197C:** Data Science Capstone (`r r_text()` & `r python_text()`)
 
 ## Computer Science
 
@@ -25,18 +25,20 @@ r_text <- function() text_spec("R", color = "#ff9600")
 
 -   **CMPSC 5A-B:** Introduction to Data Science (`r python_text()`)
 -   **EEMB 146:** Biostatistics (`r r_text()`)
--   **PSTAT 10:** Data Science Principles (`r r_text()` & `r text_spec("SQLite", color = "#F8766D")`)
+-   **PSTAT 10:** Data Science Principles (`r r_text()` & `r text_spec("SQL", color = "#F8766D")`)
+-   **PSTAT 100:** Data Science Concepts and Analysis (`r python_text()`)
 -   **PSTAT 120A-B:** Probability and Statistics
 -   **PSTAT 122:** Design and Analysis of Experiments
 -   **PSTAT 126:** Regression Analysis (`r r_text()`)
 -   **PSTAT 127:** Advanced Statistical Models (`r r_text()`)
 -   **PSTAT 131:** Statistical Machine Learning (`r r_text()`)
 -   **PSTAT 134:** Statistical Data Science (`r r_text()`)
+-   **PSTAT 135:** Big Data Analytics (`r python_text()` & `r text_spec("SQL", color = "#F8766D")`)
 -   **PSTAT 160A:** Stochastic Processes (`r python_text()`)
 -   **PSTAT 174:** Time Series (`r r_text()`)
 -   **PSTAT 190:** Teaching and Mentoring Statistics and Data Science
 -   **PSTAT 194CS:** Computational Statistics (`r r_text()`)
--   **PSTAT 197A:** Data Science Capstone (`r r_text()`)
+-   **PSTAT 197A-B:** Data Science Capstone (`r r_text()` & `r python_text()`)
 
 ## Math
 

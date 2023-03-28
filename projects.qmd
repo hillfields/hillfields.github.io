@@ -12,26 +12,29 @@ r_text <- function() text_spec("R", color = "#ff9600")
 
 ## R
 
+-   **Predicting Anime Scores** \| `r r_text()` \| [code](https://github.com/hillfields/predicting-anime-scores)
+    -   Built a Shiny app to predict MyAnimeList scores with tidymodels
 -   **Clustering Analysis on Country Data** \| `r r_text()` \| [code](https://github.com/pstat197/vignette-clustering-methods), [vignette](files/clustering-vignette.html)
     -   Implemented unsupervised clustering methods to group countries based on socioeconomic and health conditions
--   **Modeling Japan's Activity Rates in the 21st Century** \| `r r_text()` \| [code](https://github.com/hillfields/PSTAT-174-Time-Series), [report](files/modeling-activity-rates.pdf)
-    -   Modeled and forecasted monthly activity rates in Japan for the years 2000-2021 using time series data
+-   **Modeling Japan's Activity Rates in the 21st Century** \| `r r_text()` \| [code](https://github.com/hillfields/modeling-activity-rates), [report](files/modeling-activity-rates.pdf)
+    -   Modeled and forecasted monthly activity rates in Japan for the years 2000-2021 using a SARIMA model
 -   **Analyzing the 2020 Presidential Election** \| `r r_text()` \| [report](files/election-analysis.html)
-    -   Explored the relationship between census data and the 2020 election results
-    -   Experimented with several classification models to predict the winning candidate for each county
+    -   Experimented with several classification models to predict the winning candidate for each county, achieving a test classification accuracy of 93.5%
 -   **Predicting Data Science and STEM Salaries with Permutation Tests and Bootstrapping** \| `r r_text()` \| [report](files/mc-simulation-salaries.pdf)
     -   Used Monte Carlo methods to predict data science and STEM salaries
 
 ## Python
 
--   **Bingo Analysis** \| `r python_text()` \| [code](https://github.com/hillfields/bingo-analysis/blob/main/bingo.ipynb)
-    -   Simulated bingo games to determine how often different types of bingos occur
+-   **Analyzing Voter Turnout in Alaska for the 2016 General Election** \| `r python_text()` \| [report](files/voter-turnout.html)
+    -   Looked into how demographic factors played a role in whether Alaskan citizens voted in the 2016 general election
+-   **Analyzing UCSB Grades During Remote Instruction** \| `r python_text()` \| [report](files/ucsb-pandemic-grades.html)
+    -   Investigated the impact of online learning on UCSB students\' grades during the COVID-19 pandemic
 -   **Lyrics Frequency Visualizer** \| `r python_text()` \| [code](https://github.com/hillfields/lyrics-frequency-visualizer)
     -   Made a simple app to access the Spotify API, scrape Japanese song lyrics, and visualize their word frequencies
 
 ## Creative Coding
 
--   **Art Portfolio** \| `r text_spec("Processing / Java", color = "red")` \| [code](https://github.com/hillfields/ART-22), [site](https://class.arts.ucsb.edu/art22/Sites/s_22/LiuJustin/)
+-   **Art Portfolio** \| `r text_spec("Processing / Java", color = "red")` \| [code](https://github.com/hillfields/creative-coding-processing), [site](https://class.arts.ucsb.edu/art22/Sites/s_22/LiuJustin/)
     -   Created interactive art pieces using the graphics library Processing in Java
     -   Designed the website to host the projects from scratch using HTML/CSS
 -   **Language Learning Game** \| `r text_spec("Godot", color = "purple")` \| [code](https://github.com/aventayolboada/LING194_Class_project_M21)
