@@ -19,6 +19,7 @@ title: "Home"
 
 ## Interests
 
+-   Making data visualizations
 -   Writing readable code
 -   Listening to music
 -   Learning Japanese
