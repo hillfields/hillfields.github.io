@@ -12,7 +12,7 @@ r_text <- function() text_spec("R", color = "#ff9600")
 
 ## Currently Taking
 
--   **LING 111:** Data Science Concepts and Analysis (`r python_text()`)
+-   **LING 111:** Advanced Computational Linguistics: Text Processing (`r python_text()`)
 -   **C LIT 152:** Digital Humanities Practice
 -   **PSTAT 197C:** Data Science Capstone (`r r_text()` & `r python_text()`)
 

@@ -4,7 +4,7 @@
     "href": "courses.html",
     "title": "Courses",
     "section": "",
-    "text": "LING 111: Data Science Concepts and Analysis (Python)\nC LIT 152: Digital Humanities Practice\nPSTAT 197C: Data Science Capstone (R & Python)"
+    "text": "LING 111: Advanced Computational Linguistics: Text Processing (Python)\nC LIT 152: Digital Humanities Practice\nPSTAT 197C: Data Science Capstone (R & Python)"
   },
   {
     "objectID": "courses.html#computer-science",
@@ -53,7 +53,7 @@
     "href": "projects.html#python",
     "title": "Projects",
     "section": "Python",
-    "text": "Python\n\nAnalyzing Voter Turnout in Alaska for the 2016 General Election | Python | report\n\nLooked into how demographic factors played a role in whether Alaskan citizens voted in the 2016 general election\n\nAnalyzing UCSB Grades During Remote Instruction | Python | report\n\nInvestigated the impact of online learning on UCSB students' grades during the COVID-19 pandemic\n\nLyrics Frequency Visualizer | Python | code\n\nMade a simple app to access the Spotify API, scrape Japanese song lyrics, and visualize their word frequencies"
+    "text": "Python\n\nAnalyzing Voter Turnout in Alaska for the 2016 General Election | Python | report\n\nLooked into how demographic factors played a role in whether Alaskan citizens voted in the 2016 general election\n\nAnalyzing UCSB Grades During Remote Instruction | Python | report\n\nInvestigated the impact of online learning on UCSB students’ grades during the COVID-19 pandemic\n\nLyrics Frequency Visualizer | Python | code\n\nMade a simple app to access the Spotify API, scrape Japanese song lyrics, and visualize their word frequencies"
   },
   {
     "objectID": "projects.html#creative-coding",
