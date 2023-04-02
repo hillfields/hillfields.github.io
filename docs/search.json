@@ -60,7 +60,7 @@
     "href": "projects.html#creative-coding",
     "title": "Projects",
     "section": "Creative Coding",
-    "text": "Creative Coding\n\nArt Portfolio | Processing / Java | code, site\n\nCreated interactive art pieces using the graphics library Processing in Java\nDesigned the website to host the projects from scratch using HTML/CSS\n\nLanguage Learning Game | Godot | code\n\nWorked with other students to build a game for learning Mixtec\n\nInteractive Audio Projects | Max | site\n\nUtilized the visual programming language Max for several creative music projects\n\nAmerican Buddhist Meditation Temple StoryMap | ArcGIS StoryMaps | site\n\nCollaborated with other students to map the history of the American Buddhist Meditation Temple in Santa Barbara, CA"
+    "text": "Creative Coding\n\nArt Portfolio | Processing / Java | code, site\n\nCreated interactive art pieces using the Processing graphics library in Java\nDesigned the website to host the projects from scratch using HTML/CSS\n\nLanguage Learning Game | Godot | code\n\nWorked with other students to build a game for learning Mixtec\n\nInteractive Audio Projects | Max | site\n\nUtilized the visual programming language Max for several creative music projects\n\nAmerican Buddhist Meditation Temple StoryMap | ArcGIS StoryMaps | site\n\nCollaborated with other students to map the history of the American Buddhist Meditation Temple in Santa Barbara, CA"
   },
   {
     "objectID": "projects.html#linguistics",
@@ -130,7 +130,7 @@
     "href": "index.html#coding",
     "title": "Home",
     "section": "Coding",
-    "text": "Coding\n\nLanguages: R, Python, SQL\nLibraries: shiny, tidyverse, tidymodels, numpy, pandas, matplotlib, altair, scikit-learn, pyspark\nDeveloper Tools: RStudio, Jupyter, Git/GitHub, Visual Studio Code\nCertifications: Data Visualization with R, Machine Learning Fundamentals with Python\nAwards: 3-time recipient of the Creative Computing Scholarship (see some of these projects here)"
+    "text": "Coding\n\nLanguages: R, Python, SQL\nLibraries: shiny, tidyverse, tidymodels, numpy, pandas, matplotlib, altair, scikit-learn, pyspark\nDeveloper Tools: RStudio, Jupyter, Git/GitHub, Visual Studio Code, Google Cloud Platform\nCertifications: Data Visualization (R), ML Fundamentals (Python), Big Data (PySpark)\nAwards: 3-time recipient of the Creative Computing Scholarship (see some projects here)"
   },
   {
     "objectID": "index.html#interests",

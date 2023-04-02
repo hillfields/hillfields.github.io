@@ -13,9 +13,9 @@ title: "Home"
 
 -   **Languages:** R, Python, SQL
 -   **Libraries:** shiny, tidyverse, tidymodels, numpy, pandas, matplotlib, altair, scikit-learn, pyspark
--   **Developer Tools:** RStudio, Jupyter, Git/GitHub, Visual Studio Code
--   **Certifications:** [Data Visualization with R](https://www.datacamp.com/statement-of-accomplishment/track/20c51009d6acd3c9d7d50560026594e0608956d3), [Machine Learning Fundamentals with Python](https://www.datacamp.com/statement-of-accomplishment/track/3d580d351650155a010218a4e797d23f80d3fce1)
--   **Awards:** 3-time recipient of the [Creative Computing Scholarship](https://summer.ucsb.edu/courses/course-spotlight/creative-computing) (see some of these projects [here](projects.html#creative-coding))
+-   **Developer Tools:** RStudio, Jupyter, Git/GitHub, Visual Studio Code, Google Cloud Platform
+-   **Certifications:** [Data Visualization (R)](https://www.datacamp.com/statement-of-accomplishment/track/20c51009d6acd3c9d7d50560026594e0608956d3), [ML Fundamentals (Python)](https://www.datacamp.com/statement-of-accomplishment/track/3d580d351650155a010218a4e797d23f80d3fce1), [Big Data (PySpark)](https://www.datacamp.com/statement-of-accomplishment/track/0df0d8e01da0b597af7c3ca44593b9e6ea22f37f)
+-   **Awards:** 3-time recipient of the [Creative Computing Scholarship](https://summer.ucsb.edu/courses/course-spotlight/creative-computing) (see some projects [here](projects.html#creative-coding))
 
 ## Interests
 

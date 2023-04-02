@@ -35,7 +35,7 @@ r_text <- function() text_spec("R", color = "#ff9600")
 ## Creative Coding
 
 -   **Art Portfolio** \| `r text_spec("Processing / Java", color = "red")` \| [code](https://github.com/hillfields/creative-coding-processing), [site](https://class.arts.ucsb.edu/art22/Sites/s_22/LiuJustin/)
-    -   Created interactive art pieces using the graphics library Processing in Java
+    -   Created interactive art pieces using the Processing graphics library in Java
     -   Designed the website to host the projects from scratch using HTML/CSS
 -   **Language Learning Game** \| `r text_spec("Godot", color = "purple")` \| [code](https://github.com/aventayolboada/LING194_Class_project_M21)
     -   Worked with other students to build a game for learning Mixtec
