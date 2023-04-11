@@ -1,5 +1,5 @@
 ---
-title: "Courses"
+title: "Coursework"
 ---
 
 ```{r, include=FALSE}

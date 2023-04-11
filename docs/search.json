@@ -138,5 +138,47 @@
     "title": "Home",
     "section": "Interests",
     "text": "Interests\n\nMaking data visualizations\nWriting readable code\nListening to music\nLearning Japanese\nUsing bullet points"
+  },
+  {
+    "objectID": "coursework.html",
+    "href": "coursework.html",
+    "title": "Coursework",
+    "section": "",
+    "text": "LING 111: Advanced Computational Linguistics: Text Processing (Python)\nC LIT 152: Digital Humanities Practice (Python)\nPSTAT 197C: Data Science Capstone (R & Python)"
+  },
+  {
+    "objectID": "coursework.html#computer-science",
+    "href": "coursework.html#computer-science",
+    "title": "Coursework",
+    "section": "Computer Science",
+    "text": "Computer Science\n\nCMPSC 8: Introduction to Computer Science (Python)\nCMPSC 9: Intermediate Python (Python)"
+  },
+  {
+    "objectID": "coursework.html#statistics-and-data-science",
+    "href": "coursework.html#statistics-and-data-science",
+    "title": "Coursework",
+    "section": "Statistics and Data Science",
+    "text": "Statistics and Data Science\n\nCMPSC 5A-B: Introduction to Data Science (Python)\nEEMB 146: Biostatistics (R)\nPSTAT 10: Data Science Principles (R & SQL)\nPSTAT 100: Data Science Concepts and Analysis (Python)\nPSTAT 120A-B: Probability and Statistics\nPSTAT 122: Design and Analysis of Experiments\nPSTAT 126: Regression Analysis (R)\nPSTAT 127: Advanced Statistical Models (R)\nPSTAT 131: Statistical Machine Learning (R)\nPSTAT 134: Statistical Data Science (R)\nPSTAT 135: Big Data Analytics (Python & SQL)\nPSTAT 160A: Stochastic Processes (Python)\nPSTAT 174: Time Series (R)\nPSTAT 190: Teaching and Mentoring Statistics and Data Science\nPSTAT 194CS: Computational Statistics (R)\nPSTAT 197A-B: Data Science Capstone (R & Python)"
+  },
+  {
+    "objectID": "coursework.html#math",
+    "href": "coursework.html#math",
+    "title": "Coursework",
+    "section": "Math",
+    "text": "Math\n\nMATH 4A: Linear Algebra\nMATH 4B: Differential Equations\nMATH 6A: Vector Calculus\nMATH 8: Transition to Higher Mathematics\nMATH 117: Methods of Analysis"
+  },
+  {
+    "objectID": "coursework.html#creative-coding",
+    "href": "coursework.html#creative-coding",
+    "title": "Coursework",
+    "section": "Creative Coding",
+    "text": "Creative Coding\n\nART 22: Computer Programming for the Arts (Processing / Java)\nLING 194: Beyond Duolingo: Digital Games for Language Learning (Godot)\nMUS 109CA: Introduction to Interactive Audio (Max)\nRG ST 190DM: Transnational Buddhism through Digital Mapping (ArcGIS StoryMaps)"
+  },
+  {
+    "objectID": "coursework.html#linguistics",
+    "href": "coursework.html#linguistics",
+    "title": "Coursework",
+    "section": "Linguistics",
+    "text": "Linguistics\n\nLING 20: Language And Linguistics\nLING 102: Programming for Linguists (Python)\nLING 104: Statistical Methods in Linguistics (R)\nLING 105: Predictive Modeling in Linguistics (R)\nLING 106: Introduction to Phonology\nLING 110: Foundations of Computational Linguistics (Python)"
   }
 ]
