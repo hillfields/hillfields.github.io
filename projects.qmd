@@ -13,20 +13,18 @@ r_text <- function() text_spec("R", color = "#ff9600")
 ## R
 
 -   **Predicting Anime Scores** \| `r r_text()` \| [code](https://github.com/hillfields/predicting-anime-scores)
-    -   Built a Shiny app to predict MyAnimeList scores with tidymodels
+    -   Built 6 classification models using cross-validation and hyperparameters to predict scores on an anime site
 -   **Clustering Analysis on Country Data** \| `r r_text()` \| [code](https://github.com/pstat197/vignette-clustering-methods), [vignette](files/clustering-vignette.html)
     -   Implemented unsupervised clustering methods to group countries based on socioeconomic and health conditions
 -   **Modeling Japan's Activity Rates in the 21st Century** \| `r r_text()` \| [code](https://github.com/hillfields/modeling-activity-rates), [report](files/modeling-activity-rates.pdf)
-    -   Modeled and forecasted monthly activity rates in Japan for the years 2000-2021 using a SARIMA model
+    -   Forecasted monthly activity rates in Japan for the year 2022 using a SARIMA model
 -   **Analyzing the 2020 Presidential Election** \| `r r_text()` \| [report](files/election-analysis.html)
     -   Experimented with several classification models to predict the winning candidate for each county, achieving a test classification accuracy of 93.5%
--   **Predicting Data Science and STEM Salaries with Permutation Tests and Bootstrapping** \| `r r_text()` \| [report](files/mc-simulation-salaries.pdf)
-    -   Used Monte Carlo methods to predict data science and STEM salaries
 
 ## Python
 
 -   **Analyzing Voter Turnout in Alaska for the 2016 General Election** \| `r python_text()` \| [report](files/voter-turnout.html)
-    -   Looked into how demographic factors played a role in whether Alaskan citizens voted in the 2016 general election
+    -   Looked into how demographic factors played a role in Alaskan voter participation during the 2016 general election
 -   **Analyzing UCSB Grades During Remote Instruction** \| `r python_text()` \| [report](files/ucsb-pandemic-grades.html)
     -   Investigated the impact of online learning on UCSB students' grades during the COVID-19 pandemic
 -   **Lyrics Frequency Visualizer** \| `r python_text()` \| [code](https://github.com/hillfields/lyrics-frequency-visualizer)
