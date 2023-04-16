@@ -46,14 +46,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Predicting Anime Scores | R | code\n\nBuilt 6 classification models using cross-validation and hyperparameters to predict scores on an anime site\n\nClustering Analysis on Country Data | R | code, vignette\n\nImplemented unsupervised clustering methods to group countries based on socioeconomic and health conditions\n\nModeling Japan’s Activity Rates in the 21st Century | R | code, report\n\nForecasted monthly activity rates in Japan for the year 2022 using a SARIMA model\n\nAnalyzing the 2020 Presidential Election | R | report\n\nExperimented with several classification models to predict the winning candidate for each county, achieving a test classification accuracy of 93.5%"
+    "text": "Predicting Anime Scores | R | code\n\nBuilt 6 regression models using cross-validation and hyperparameters to predict scores on an anime site\n\nClustering Analysis on Country Data | R | code, vignette\n\nImplemented unsupervised clustering methods to group countries based on socioeconomic and health conditions\n\nModeling Japan’s Activity Rates in the 21st Century | R | code, report\n\nForecasted monthly activity rates in Japan for the year 2022 using a SARIMA model\n\nAnalyzing the 2020 Presidential Election | R | report\n\nExperimented with several classification models to predict the winning candidate for each county, achieving a test classification accuracy of 93.5%"
   },
   {
     "objectID": "projects.html#python",
     "href": "projects.html#python",
     "title": "Projects",
     "section": "Python",
-    "text": "Python\n\nAnalyzing Voter Turnout in Alaska for the 2016 General Election | Python | report\n\nLooked into how demographic factors played a role in Alaskan voter participation during the 2016 general election\n\nAnalyzing UCSB Grades During Remote Instruction | Python | report\n\nInvestigated the impact of online learning on UCSB students’ grades during the COVID-19 pandemic\n\nLyrics Frequency Visualizer | Python | code\n\nMade a simple app to access the Spotify API, scrape Japanese song lyrics, and visualize their word frequencies"
+    "text": "Python\n\nAnalyzing UCSB Grades During Remote Instruction | Python | report\n\nInvestigated the impact of online learning on UCSB students’ grades during the COVID-19 pandemic\n\nAnalyzing Voter Turnout in Alaska for the 2016 General Election | Python | report\n\nLooked into how demographic factors played a role in Alaskan voter participation during the 2016 general election\n\nLyrics Frequency Visualizer | Python | code\n\nMade a simple app to access the Spotify API, scrape Japanese song lyrics, and visualize their word frequencies"
   },
   {
     "objectID": "projects.html#creative-coding",
