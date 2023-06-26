@@ -2,6 +2,56 @@
 title: "Projects"
 ---
 
+## Research
+
+::: {layout-ncol=2}
+![Understanding and Modeling Human Mobility Response to California Wildfires \[[summary](files/move-capstone-summary.pdf)\]](img/move-animation.gif)
+
+![Underrepresented Minority Music Students at California Community Colleges \[[poster](files/murm-poster.pdf)\]](img/murm-survey.png)
+:::
+
+## R
+
+::: {layout-ncol=2}
+![Clustering Analysis on Country Data \[[vignette](files/clustering-vignette.html)\]](img/map-clusters.png)
+
+![Forecasting Activity Rates in Japan \[[report](files/forecasting-activity-rates.html)\]](img/activity-rate-forecast.png)
+
+![Modeling the 2020 Presidential Election \[[report](files/election-analysis.html)\]](img/election-models.png)
+
+![Anime Score Predictor \[[code](https://github.com/hillfields/predicting-anime-scores)\]](img/anime-score-predictor.png)
+:::
+
+## Python
+
+::: {layout-ncol=2}
+![Examining LLM Tweets using NLP \[[Colab](https://colab.research.google.com/drive/11niKxug9SfYIOMzmLKhhsx4Aazbeq7mC?usp=sharing)\]](img/llm-topics.png)
+
+![Lyrics Frequency Visualizer \[[code](https://github.com/hillfields/lyrics-frequency-visualizer)\]](img/lyrics-frequency-chart.png)
+
+![Analyzing Voter Turnout in Alaska \[[report](files/voter-turnout.html)\]](img/voter-logistic-coefficients.png)
+
+![Analyzing UCSB Grades During Remote Instruction \[[report](files/ucsb-pandemic-grades.html)\]](img/departments-grade-diffs.svg)
+:::
+
+## Creative Coding
+
+::: {layout-ncol=2}
+![Art Programming Portfolio (Processing) \[[website](https://class.arts.ucsb.edu/art22/Sites/s_22/LiuJustin/)\]](img/expanded-cinema-project.gif)
+
+![Language Learning Game (Godot) \[[code](https://github.com/aventayolboada/LING194_Class_project_M21)\]](img/language-game.png)
+
+![Interactive Audio Projects (Max) \[[website](mus-109ca.html)\]](img/max-final-project.png)
+
+![Tracing the History of the ABMT (ArcGIS StoryMaps) \[[website](https://storymaps.arcgis.com/stories/48e3c1a6290e4bb1a3fadd5bc979e7f9)\]](img/abmt-map.png)
+:::
+
+## Other
+
+::: {layout-ncol=2}
+![Zipfinder \[[Devpost](https://devpost.com/software/zipfinder)\]](img/zipfinder.png)
+:::
+
 ```{r, include=FALSE}
 library(kableExtra)
 
@@ -9,40 +59,3 @@ python_text <- function() text_spec("Python", color = "green")
 
 r_text <- function() text_spec("R", color = "#ff9600")
 ```
-
-## R
-
--   **Predicting Anime Scores** \| `r r_text()` \| [code](https://github.com/hillfields/predicting-anime-scores)
-    -   Built 6 regression models using cross-validation and hyperparameters to predict scores on an anime site
--   **Clustering Analysis on Country Data** \| `r r_text()` \| [code](https://github.com/pstat197/vignette-clustering-methods), [vignette](files/clustering-vignette.html)
-    -   Implemented unsupervised clustering methods to group countries based on socioeconomic and health conditions
--   **Modeling Japan's Activity Rates in the 21st Century** \| `r r_text()` \| [code](https://github.com/hillfields/modeling-activity-rates), [report](files/modeling-activity-rates.pdf)
-    -   Forecasted monthly activity rates in Japan for the year 2022 using a SARIMA model
--   **Analyzing the 2020 Presidential Election** \| `r r_text()` \| [report](files/election-analysis.html)
-    -   Experimented with several classification models to predict the winning candidate for each county, achieving a test classification accuracy of 93.5%
-
-## Python
-
--   **Analyzing UCSB Grades During Remote Instruction** \| `r python_text()` \| [report](files/ucsb-pandemic-grades.html)
-    -   Investigated the impact of online learning on UCSB students' grades during the COVID-19 pandemic
--   **Analyzing Voter Turnout in Alaska for the 2016 General Election** \| `r python_text()` \| [report](files/voter-turnout.html)
-    -   Looked into how demographic factors played a role in Alaskan voter participation during the 2016 general election
--   **Lyrics Frequency Visualizer** \| `r python_text()` \| [code](https://github.com/hillfields/lyrics-frequency-visualizer)
-    -   Made a simple app to access the Spotify API, scrape Japanese song lyrics, and visualize their word frequencies
-
-## Creative Coding
-
--   **Art Portfolio** \| `r text_spec("Processing / Java", color = "red")` \| [code](https://github.com/hillfields/creative-coding-processing), [site](https://class.arts.ucsb.edu/art22/Sites/s_22/LiuJustin/)
-    -   Created interactive art pieces using the Processing graphics library in Java
-    -   Designed the website to host the projects from scratch using HTML/CSS
--   **Language Learning Game** \| `r text_spec("Godot", color = "purple")` \| [code](https://github.com/aventayolboada/LING194_Class_project_M21)
-    -   Worked with other students to build a game for learning Mixtec
--   **Interactive Audio Projects** \| `r text_spec("Max", color = "#f1c232")` \| [site](mus-109ca.html)
-    -   Utilized the visual programming language Max for several creative music projects
--   **American Buddhist Meditation Temple StoryMap** \| `r text_spec("ArcGIS StoryMaps", color = "#82bef7")` \| [site](https://storymaps.arcgis.com/stories/48e3c1a6290e4bb1a3fadd5bc979e7f9)
-    -   Collaborated with other students to map the history of the American Buddhist Meditation Temple in Santa Barbara, CA
-
-## Linguistics
-
--   **Phonetic Description of Japanese** \| [report](files/japanese-phonology.pdf)
-    -   Researched the basic phonology of Japanese, including its pitch accent patterns

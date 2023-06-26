@@ -46,21 +46,21 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Predicting Anime Scores | R | code\n\nBuilt 6 regression models using cross-validation and hyperparameters to predict scores on an anime site\n\nClustering Analysis on Country Data | R | code, vignette\n\nImplemented unsupervised clustering methods to group countries based on socioeconomic and health conditions\n\nModeling Japan’s Activity Rates in the 21st Century | R | code, report\n\nForecasted monthly activity rates in Japan for the year 2022 using a SARIMA model\n\nAnalyzing the 2020 Presidential Election | R | report\n\nExperimented with several classification models to predict the winning candidate for each county, achieving a test classification accuracy of 93.5%"
+    "text": "Understanding and Modeling Human Mobility Response to California Wildfires [summary]\n\n\n\n\n\n\n\nUnderrepresented Minority Music Students at California Community Colleges [poster]"
   },
   {
     "objectID": "projects.html#python",
     "href": "projects.html#python",
     "title": "Projects",
     "section": "Python",
-    "text": "Python\n\nAnalyzing UCSB Grades During Remote Instruction | Python | report\n\nInvestigated the impact of online learning on UCSB students’ grades during the COVID-19 pandemic\n\nAnalyzing Voter Turnout in Alaska for the 2016 General Election | Python | report\n\nLooked into how demographic factors played a role in Alaskan voter participation during the 2016 general election\n\nLyrics Frequency Visualizer | Python | code\n\nMade a simple app to access the Spotify API, scrape Japanese song lyrics, and visualize their word frequencies"
+    "text": "Python\n\n\n\n\n\n\nExamining LLM Tweets using NLP [Colab]\n\n\n\n\n\n\n\nLyrics Frequency Visualizer [code]\n\n\n\n\n\n\n\n\n\nAnalyzing Voter Turnout in Alaska [report]\n\n\n\n\n\n\n\nAnalyzing UCSB Grades During Remote Instruction [report]"
   },
   {
     "objectID": "projects.html#creative-coding",
     "href": "projects.html#creative-coding",
     "title": "Projects",
     "section": "Creative Coding",
-    "text": "Creative Coding\n\nArt Portfolio | Processing / Java | code, site\n\nCreated interactive art pieces using the Processing graphics library in Java\nDesigned the website to host the projects from scratch using HTML/CSS\n\nLanguage Learning Game | Godot | code\n\nWorked with other students to build a game for learning Mixtec\n\nInteractive Audio Projects | Max | site\n\nUtilized the visual programming language Max for several creative music projects\n\nAmerican Buddhist Meditation Temple StoryMap | ArcGIS StoryMaps | site\n\nCollaborated with other students to map the history of the American Buddhist Meditation Temple in Santa Barbara, CA"
+    "text": "Creative Coding\n\n\n\n\n\n\nArt Programming Portfolio (Processing) [website]\n\n\n\n\n\n\n\nLanguage Learning Game (Godot) [code]\n\n\n\n\n\n\n\n\n\nInteractive Audio Projects (Max) [website]\n\n\n\n\n\n\n\nTracing the History of the ABMT (ArcGIS StoryMaps) [website]"
   },
   {
     "objectID": "projects.html#linguistics",
@@ -72,14 +72,14 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "Justin Liu",
     "section": "",
-    "text": "Statistics & Data Science major and Linguistics minor at UCSB\nUndergraduate Learning Assistant for PSTAT 10 (Data Science Principles) and CMPSC 5A (Introduction to Data Science)\nUndergraduate Research Assistant with the CPLS Lab\nCapstone project with the MOVE Lab"
+    "text": "Profile picture credit to ぬくぬくにぎりめし"
   },
   {
     "objectID": "index.html#links",
     "href": "index.html#links",
-    "title": "Home",
+    "title": "Justin Liu",
     "section": "Links",
     "text": "Links\n\nGitHub"
   },
@@ -130,12 +130,12 @@
     "href": "index.html#coding",
     "title": "Home",
     "section": "Coding",
-    "text": "Coding\n\nLanguages: R, Python, SQL\nLibraries: shiny, tidyverse, tidymodels, numpy, pandas, matplotlib, altair, scikit-learn, pyspark\nDeveloper Tools: RStudio, Jupyter, Git/GitHub, Visual Studio Code, Google Cloud Platform\nCertifications: Data Visualization (R), ML Fundamentals (Python), Big Data (PySpark)\nAwards: 3-time recipient of the Creative Computing Scholarship (see some projects here)"
+    "text": "Coding\n\nLanguages: R, Python, SQL, HTML/CSS\nLibraries: Shiny, tidyverse/tidymodels, Leaflet, NumPy, Pandas, Matplotlib, Altair, Scikit-learn, PySpark, Tensorflow\nDeveloper Tools: RStudio, Quarto, Jupyter, Git/GitHub, Visual Studio Code, Google Cloud Platform, Google Colab\nAwards: 3-time recipient of the Creative Computing Scholarship (see some projects here)"
   },
   {
     "objectID": "index.html#interests",
     "href": "index.html#interests",
-    "title": "Home",
+    "title": "Justin Liu",
     "section": "Interests",
     "text": "Interests\n\nMaking data visualizations\nWriting readable code\nListening to music\nLearning Japanese\nUsing bullet points"
   },
@@ -144,7 +144,7 @@
     "href": "coursework.html",
     "title": "Coursework",
     "section": "",
-    "text": "LING 111: Advanced Computational Linguistics: Text Processing (Python)\nC LIT 152: Digital Humanities Practice (Python)\nPSTAT 197C: Data Science Capstone (R & Python)"
+    "text": "CMPSC 8: Introduction to Computer Science (Python)\nCMPSC 9: Intermediate Python (Python)"
   },
   {
     "objectID": "coursework.html#computer-science",
@@ -158,7 +158,7 @@
     "href": "coursework.html#statistics-and-data-science",
     "title": "Coursework",
     "section": "Statistics and Data Science",
-    "text": "Statistics and Data Science\n\nCMPSC 5A-B: Introduction to Data Science (Python)\nEEMB 146: Biostatistics (R)\nPSTAT 10: Data Science Principles (R & SQL)\nPSTAT 100: Data Science Concepts and Analysis (Python)\nPSTAT 120A-B: Probability and Statistics\nPSTAT 122: Design and Analysis of Experiments\nPSTAT 126: Regression Analysis (R)\nPSTAT 127: Advanced Statistical Models (R)\nPSTAT 131: Statistical Machine Learning (R)\nPSTAT 134: Statistical Data Science (R)\nPSTAT 135: Big Data Analytics (Python & SQL)\nPSTAT 160A: Stochastic Processes (Python)\nPSTAT 174: Time Series (R)\nPSTAT 190: Teaching and Mentoring Statistics and Data Science\nPSTAT 194CS: Computational Statistics (R)\nPSTAT 197A-B: Data Science Capstone (R & Python)"
+    "text": "Statistics and Data Science\n\nCMPSC 5A-B: Introduction to Data Science (Python)\nEEMB 146: Biostatistics (R)\nPSTAT 10: Data Science Principles (R & SQL)\nPSTAT 100: Data Science Concepts and Analysis (Python)\nPSTAT 120A-B: Probability and Statistics\nPSTAT 122: Design and Analysis of Experiments\nPSTAT 126: Regression Analysis (R)\nPSTAT 127: Advanced Statistical Models (R)\nPSTAT 131: Statistical Machine Learning (R)\nPSTAT 134: Statistical Data Science (R)\nPSTAT 135: Big Data Analytics (Python & SQL)\nPSTAT 160A: Stochastic Processes (Python)\nPSTAT 174: Time Series (R)\nPSTAT 190: Teaching and Mentoring Statistics and Data Science\nPSTAT 194CS: Computational Statistics (R)\nPSTAT 197A-B-C: Data Science Capstone (R & Python)"
   },
   {
     "objectID": "coursework.html#math",
@@ -179,6 +179,97 @@
     "href": "coursework.html#linguistics",
     "title": "Coursework",
     "section": "Linguistics",
-    "text": "Linguistics\n\nLING 20: Language And Linguistics\nLING 102: Programming for Linguists (Python)\nLING 104: Statistical Methods in Linguistics (R)\nLING 105: Predictive Modeling in Linguistics (R)\nLING 106: Introduction to Phonology\nLING 110: Foundations of Computational Linguistics (Python)"
+    "text": "Linguistics\n\nLING 20: Language and Linguistics\nLING 102: Programming for Linguists (Python)\nLING 104: Statistical Methods in Linguistics (R)\nLING 105: Predictive Modeling in Linguistics (R)\nLING 106: Introduction to Phonology\nLING 110: Foundations of Computational Linguistics (Python)\nLING 111: Advanced Computational Linguistics: Text Processing (Python)"
+  },
+  {
+    "objectID": "coursework.html#other",
+    "href": "coursework.html#other",
+    "title": "Coursework",
+    "section": "Other",
+    "text": "Other\n\nC LIT 152: Digital Humanities Practice (Python)\nEACS 136: Children at War\nJAPAN 63: Sociology of Japan\nJAPAN 165: Popular Culture in Japan\nMUS 11: Fundamentals of Music"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Justin Liu",
+    "section": "Experience",
+    "text": "Experience\n\nUndergraduate Learning Assistant | PSTAT & CS Departments @ UCSB\n\nClasses supervised: PSTAT 10 (Data Science Principles) and CS 5A (Introduction to Data Science)\n\nSponsored Capstone Member | MOVE Lab @ UCSB\n\nTopic: Understanding and Modeling Human Mobility Response to California Wildfires\n\nUndergraduate Research Assistant | CPLS Lab @ UCSB\n\nTopic: Stimuli Redesign for Spanish Proto-lexicon Experiments\n\nUndergraduate Research Assistant | Education Department @ UCSB\n\nTopic: Underrepresented Minority Music Students at California Community Colleges\n\nNotetaker/Proctor | Disabled Students Program @ UCSB\nTutor | AVID program"
+  },
+  {
+    "objectID": "coursework.html#other-classes-i-enjoyed",
+    "href": "coursework.html#other-classes-i-enjoyed",
+    "title": "Coursework",
+    "section": "Other Classes I Enjoyed",
+    "text": "Other Classes I Enjoyed\n\nC LIT 152: Digital Humanities Practice (Python)\nEACS 136: Children at War\nJAPAN 63: Sociology of Japan\nJAPAN 165: Popular Culture in Japan\nMUS 11: Fundamentals of Music"
+  },
+  {
+    "objectID": "projects.html#r",
+    "href": "projects.html#r",
+    "title": "Projects",
+    "section": "R",
+    "text": "R\n\n\n\n\n\n\nClustering Analysis on Country Data [vignette]\n\n\n\n\n\n\n\nForecasting Activity Rates in Japan [report]\n\n\n\n\n\n\n\n\n\nModeling the 2020 Presidential Election [report]\n\n\n\n\n\n\n\nAnime Score Predictor [code]"
+  },
+  {
+    "objectID": "projects.html#test",
+    "href": "projects.html#test",
+    "title": "Projects",
+    "section": "Test",
+    "text": "Test"
+  },
+  {
+    "objectID": "index.html#test",
+    "href": "index.html#test",
+    "title": "Home",
+    "section": "Test",
+    "text": "Test\n\n\n\n\n\nClustering Analysis on Country Data\n\n\n\n\n\nForecasting Activity Rates in Japan\n\n\n\n\n\n\n\nModeling the 2020 Presidential Election"
+  },
+  {
+    "objectID": "projects.html#r-1",
+    "href": "projects.html#r-1",
+    "title": "Projects",
+    "section": "R",
+    "text": "R\n\nPredicting Anime Scores | R | code\n\nBuilt 6 regression models using cross-validation and hyperparameters to predict scores on an anime site\n\nClustering Analysis on Country Data | R | code, vignette\n\nImplemented unsupervised clustering methods to group countries based on socioeconomic and health conditions\n\nModeling Japan’s Activity Rates in the 21st Century | R | code, report\n\nForecasted monthly activity rates in Japan for the year 2022 using a SARIMA model\n\nAnalyzing the 2020 Presidential Election | R | report\n\nExperimented with several classification models to predict the winning candidate for each county, achieving a test classification accuracy of 93.5%"
+  },
+  {
+    "objectID": "projects.html#python-1",
+    "href": "projects.html#python-1",
+    "title": "Projects",
+    "section": "Python",
+    "text": "Python\n\nClassifying Genres with Song Lyrics | Python | report\n\nImplemented Tensorflow models using semantic and phonological representations of song lyrics to predict their genres\n\nLyrics Frequency Visualizer | Python | code\n\nMade a simple app to access the Spotify API, scrape Japanese song lyrics, and visualize their word frequencies"
+  },
+  {
+    "objectID": "projects.html#other",
+    "href": "projects.html#other",
+    "title": "Projects",
+    "section": "Other",
+    "text": "Other\n\n\n\n\n\n\nZipfinder [Devpost]"
+  },
+  {
+    "objectID": "projects.html#creative-coding-1",
+    "href": "projects.html#creative-coding-1",
+    "title": "Projects",
+    "section": "Creative Coding",
+    "text": "Creative Coding\n\nArt Portfolio | Processing / Java | code, site\n\nCreated interactive art pieces using the Processing graphics library in Java\nDesigned the website to host the projects from scratch using HTML/CSS\n\nLanguage Learning Game | Godot | code\n\nWorked with other students to build a game for learning Mixtec\n\nInteractive Audio Projects | Max | site\n\nUtilized the visual programming language Max for several creative music projects\n\nAmerican Buddhist Meditation Temple StoryMap | ArcGIS StoryMaps | site\n\nCollaborated with other students to map the history of the American Buddhist Meditation Temple in Santa Barbara, CA"
+  },
+  {
+    "objectID": "projects.html#research",
+    "href": "projects.html#research",
+    "title": "Projects",
+    "section": "Research",
+    "text": "Research\n\n\n\n\n\n\nPredicting Wildfire-Impacted Areas [placeholder]"
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "Justin Liu",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nLanguages: R, Python, SQL, HTML/CSS\nLibraries: Shiny, tidyverse/tidymodels, Leaflet, NumPy, Pandas, Matplotlib, Altair, Scikit-learn, PySpark, Tensorflow, spaCy\nDeveloper Tools: RStudio, Quarto, Jupyter, Git/GitHub, Visual Studio Code, Google Cloud Platform, Google Colab\nAwards: 3-time recipient of the Creative Computing Scholarship\nOther: Qualtrics, Google Workspace, Microsoft Office, Slack"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Justin Liu",
+    "section": "About Me",
+    "text": "About Me\n\nStatistics & Data Science major and Computational Linguistics minor @ UCSB\nIB Diploma Recipient\nInterests: data visualization, music, Japanese"
   }
 ]

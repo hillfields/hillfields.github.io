@@ -1,30 +1,40 @@
 ---
-title: "Home"
+title: Justin Liu
+about:
+  template: solana
+  image: img/pfp.png
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/hillfields
 ---
 
-## What I'm Currently Doing
+Profile picture credit to ぬくぬくにぎりめし
 
--   Statistics & Data Science major and Linguistics minor at UCSB
--   Undergraduate Learning Assistant for PSTAT 10 (Data Science Principles) and CMPSC 5A (Introduction to Data Science)
--   Undergraduate Research Assistant with the [CPLS Lab](https://ucsb-cpls-lab.github.io/)
--   Capstone project with the [MOVE Lab](http://move.geog.ucsb.edu/)
+## About Me
 
-## Coding
+-   Statistics & Data Science major and Computational Linguistics minor @ UCSB
+-   [IB Diploma](https://www.ibo.org/programmes/diploma-programme/) Recipient
+-   **Interests:** data visualization, music, Japanese
 
--   **Languages:** R, Python, SQL
--   **Libraries:** shiny, tidyverse, tidymodels, numpy, pandas, matplotlib, altair, scikit-learn, pyspark
--   **Developer Tools:** RStudio, Jupyter, Git/GitHub, Visual Studio Code, Google Cloud Platform
--   **Certifications:** [Data Visualization (R)](https://www.datacamp.com/statement-of-accomplishment/track/20c51009d6acd3c9d7d50560026594e0608956d3), [ML Fundamentals (Python)](https://www.datacamp.com/statement-of-accomplishment/track/3d580d351650155a010218a4e797d23f80d3fce1), [Big Data (PySpark)](https://www.datacamp.com/statement-of-accomplishment/track/0df0d8e01da0b597af7c3ca44593b9e6ea22f37f)
--   **Awards:** 3-time recipient of the [Creative Computing Scholarship](https://summer.ucsb.edu/courses/course-spotlight/creative-computing) (see some projects [here](projects.html#creative-coding))
+## Experience
 
-## Interests
+-   **Undergraduate Learning Assistant** | PSTAT & CS Departments @ UCSB
+    -   *Classes supervised:* PSTAT 10 (Data Science Principles) and CS 5A (Introduction to Data Science)
+-   **Sponsored Capstone Member** | [MOVE Lab](http://move.geog.ucsb.edu/) @ UCSB
+    -   *Topic:* Understanding and Modeling Human Mobility Response to California Wildfires
+-   **Undergraduate Research Assistant** | [CPLS Lab](https://ucsb-cpls-lab.github.io/) @ UCSB
+    -   *Topic:* Stimuli Redesign for Spanish Proto-lexicon Experiments
+-   **Undergraduate Research Assistant** | Education Department @ UCSB
+    -   *Topic:* Underrepresented Minority Music Students at California Community Colleges
+-   **Notetaker/Proctor** | Disabled Students Program @ UCSB
+-   **Tutor** | AVID program
 
--   Making data visualizations
--   Writing readable code
--   Listening to music
--   Learning Japanese
--   Using bullet points
+## Technical Skills
 
-## Links
-
--   [GitHub](https://github.com/hillfields)
+-   **Languages:** R, Python, SQL, HTML/CSS
+-   **Libraries:** Shiny, tidyverse/tidymodels, Leaflet, NumPy, Pandas, Matplotlib, Altair, Scikit-learn, PySpark, Tensorflow, spaCy
+-   **Developer Tools:** RStudio, Quarto, Jupyter, Git/GitHub, Visual Studio Code, Google Cloud Platform, Google Colab
+-   **Awards:** 3-time recipient of the [Creative Computing Scholarship](https://summer.ucsb.edu/courses/course-spotlight/creative-computing)
+-   **Other:** Qualtrics, Google Workspace, Microsoft Office, Slack
