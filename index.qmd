@@ -16,7 +16,7 @@ Profile picture credit to ぬくぬくにぎりめし
 
 -   Statistics & Data Science major and Computational Linguistics minor @ UCSB
 -   [IB Diploma](https://www.ibo.org/programmes/diploma-programme/) Recipient
--   **Interests:** data visualization, music, Japanese
+-   **Interests:** data analysis & visualization, music, Japanese
 
 ## Experience
 
@@ -34,7 +34,7 @@ Profile picture credit to ぬくぬくにぎりめし
 ## Technical Skills
 
 -   **Languages:** R, Python, SQL, HTML/CSS
--   **Libraries:** Shiny, tidyverse/tidymodels, Leaflet, NumPy, Pandas, Matplotlib, Altair, Scikit-learn, PySpark, Tensorflow, spaCy
--   **Developer Tools:** RStudio, Quarto, Jupyter, Git/GitHub, Visual Studio Code, Google Cloud Platform, Google Colab
+-   **Libraries:** Shiny, tidyverse/tidymodels, Leaflet, NumPy, Pandas, Seaborn, Matplotlib, Altair, Scikit-learn, PySpark, Tensorflow, spaCy
+-   **Developer Tools:** RStudio, Jupyter, Git/GitHub, Visual Studio Code, Google Cloud Platform, Google Colab
 -   **Awards:** 3-time recipient of the [Creative Computing Scholarship](https://summer.ucsb.edu/courses/course-spotlight/creative-computing)
 -   **Other:** Qualtrics, Google Workspace, Microsoft Office, Slack

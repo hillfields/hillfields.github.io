@@ -263,13 +263,13 @@
     "href": "index.html#technical-skills",
     "title": "Justin Liu",
     "section": "Technical Skills",
-    "text": "Technical Skills\n\nLanguages: R, Python, SQL, HTML/CSS\nLibraries: Shiny, tidyverse/tidymodels, Leaflet, NumPy, Pandas, Matplotlib, Altair, Scikit-learn, PySpark, Tensorflow, spaCy\nDeveloper Tools: RStudio, Quarto, Jupyter, Git/GitHub, Visual Studio Code, Google Cloud Platform, Google Colab\nAwards: 3-time recipient of the Creative Computing Scholarship\nOther: Qualtrics, Google Workspace, Microsoft Office, Slack"
+    "text": "Technical Skills\n\nLanguages: R, Python, SQL, HTML/CSS\nLibraries: Shiny, tidyverse/tidymodels, Leaflet, NumPy, Pandas, Seaborn, Matplotlib, Altair, Scikit-learn, PySpark, Tensorflow, spaCy\nDeveloper Tools: RStudio, Jupyter, Git/GitHub, Visual Studio Code, Google Cloud Platform, Google Colab\nAwards: 3-time recipient of the Creative Computing Scholarship\nOther: Qualtrics, Google Workspace, Microsoft Office, Slack"
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Justin Liu",
     "section": "About Me",
-    "text": "About Me\n\nStatistics & Data Science major and Computational Linguistics minor @ UCSB\nIB Diploma Recipient\nInterests: data visualization, music, Japanese"
+    "text": "About Me\n\nStatistics & Data Science major and Computational Linguistics minor @ UCSB\nIB Diploma Recipient\nInterests: data analysis & visualization, music, Japanese"
   }
 ]
