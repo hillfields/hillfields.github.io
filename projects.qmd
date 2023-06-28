@@ -4,7 +4,7 @@ title: "Projects"
 
 ## Research
 
-::: {layout-ncol=2}
+::: {layout-ncol="2"}
 ![Understanding and Modeling Human Mobility Response to California Wildfires \[[summary](files/move-capstone-summary.pdf)\]](img/move-animation.gif)
 
 ![Underrepresented Minority Music Students at California Community Colleges \[[poster](files/murm-poster.pdf)\]](img/murm-survey.png)
@@ -12,7 +12,7 @@ title: "Projects"
 
 ## R
 
-::: {layout-ncol=2}
+::: {layout-ncol="2"}
 ![Clustering Analysis on Country Data \[[vignette](files/clustering-vignette.html)\]](img/map-clusters.png)
 
 ![Forecasting Activity Rates in Japan \[[report](files/forecasting-activity-rates.html)\]](img/activity-rate-forecast.png)
@@ -24,7 +24,7 @@ title: "Projects"
 
 ## Python
 
-::: {layout-ncol=2}
+::: {layout-ncol="2"}
 ![Examining LLM Tweets using NLP \[[Colab](https://colab.research.google.com/drive/11niKxug9SfYIOMzmLKhhsx4Aazbeq7mC?usp=sharing)\]](img/llm-topics.png)
 
 ![Lyrics Frequency Visualizer \[[code](https://github.com/hillfields/lyrics-frequency-visualizer)\]](img/lyrics-frequency-chart.png)
@@ -36,8 +36,8 @@ title: "Projects"
 
 ## Creative Coding
 
-::: {layout-ncol=2}
-![Art Programming Portfolio (Processing) \[[website](https://class.arts.ucsb.edu/art22/Sites/s_22/LiuJustin/)\]](img/expanded-cinema-project.gif)
+::: {layout-ncol="2"}
+![Art Programming Portfolio (Processing) \[[website](/art22)\]](img/expanded-cinema-project.gif)
 
 ![Language Learning Game (Godot) \[[code](https://github.com/aventayolboada/LING194_Class_project_M21)\]](img/language-game.png)
 
@@ -48,14 +48,6 @@ title: "Projects"
 
 ## Other
 
-::: {layout-ncol=2}
+::: {layout-ncol="2"}
 ![Zipfinder \[[Devpost](https://devpost.com/software/zipfinder)\]](img/zipfinder.png)
 :::
-
-```{r, include=FALSE}
-library(kableExtra)
-
-python_text <- function() text_spec("Python", color = "green")
-
-r_text <- function() text_spec("R", color = "#ff9600")
-```
