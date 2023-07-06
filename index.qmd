@@ -8,6 +8,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/hillfields
+    - icon: envelope
+      text: Email
+      href: mailto:justintliu@ucsb.edu
 ---
 
 Profile picture credit to ぬくぬくにぎりめし
