@@ -46,14 +46,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Understanding and Modeling Human Mobility Response to California Wildfires [summary]\n\n\n\n\n\n\n\nUnderrepresented Minority Music Students at California Community Colleges [poster]"
+    "text": "Understanding and Modeling Human Mobility Response to California Wildfires [summary] [poster]\n\n\n\n\n\n\n\nUnderrepresented Minority Music Students at California Community Colleges [poster]"
   },
   {
     "objectID": "projects.html#python",
     "href": "projects.html#python",
     "title": "Projects",
     "section": "Python",
-    "text": "Python\n\n\n\n\n\n\nExamining LLM Tweets using NLP [Colab]\n\n\n\n\n\n\n\nLyrics Frequency Visualizer [code]\n\n\n\n\n\n\n\n\n\nAnalyzing UCSB Grades During Remote Instruction [report]"
+    "text": "Python\n\n\n\n\n\n\nExamining LLM Tweets using NLP [Colab]\n\n\n\n\n\n\n\nLyrics Frequency Visualizer [code]\n\n\n\n\n\n\n\n\n\nAnalyzing UCSB Grades During Remote Instruction [report]\n\n\n\n\n\n\n\nAnalyzing Voter Turnout in Alaska [report]\n\n\n\n\n\n\n\n\n\nSong Genre Classification [report]"
   },
   {
     "objectID": "projects.html#creative-coding",
@@ -74,7 +74,7 @@
     "href": "index.html",
     "title": "Justin Liu",
     "section": "",
-    "text": "Education:\n\nStatistics & Data Science major and Linguistics minor (Speech & Technologies Emphasis) @ UCSB\nGraduate of the IB Program, one of the most rigorous high school curriculums\n\nInterests: data analysis & visualization, music, Japanese"
+    "text": "Education:\n\nWaseda University: study abroad (current)\nUCSB: Statistics & Data Science major and Linguistics minor (Speech & Technologies Emphasis)\nIB Program: one of the most rigorous high school curriculums in the world (Psychology Extended Essay on Second Language Acquisition)\n\nInterests: data analysis & visualization, music, Japanese"
   },
   {
     "objectID": "index.html#links",
@@ -193,7 +193,7 @@
     "href": "index.html#experience",
     "title": "Justin Liu",
     "section": "Experience",
-    "text": "Experience\n\nUndergraduate Learning Assistant | PSTAT & CS Departments @ UCSB\n\nClasses supervised: PSTAT 10 (Data Science Principles) and CS 5A (Introduction to Data Science)\n\nSponsored Capstone Member | MOVE Lab @ UCSB\n\nTopic: Understanding and Modeling Human Mobility Response to California Wildfires\n\nUndergraduate Research Assistant | CPLS Lab @ UCSB\n\nTopic: Stimuli Redesign for Spanish Proto-lexicon Experiments\n\nUndergraduate Research Assistant | Education Department @ UCSB\n\nTopic: Underrepresented Minority Music Students at California Community Colleges\n\nNotetaker/Proctor | Disabled Students Program @ UCSB\nTutor | AVID Program"
+    "text": "Experience\n\nUndergraduate Learning Assistant | PSTAT & CS Departments @ UCSB\n\nClasses supervised: Data Science Principles (R/SQL) & Introduction to Data Science (Python)\n\nSponsored Capstone Member | MOVE Lab @ UCSB\n\nTopic: Understanding and Modeling Human Mobility Response to California Wildfires\n\nUndergraduate Research Assistant | CPLS Lab @ UCSB\n\nTopic: Stimuli Redesign for Spanish Proto-lexicon Experiments\n\nUndergraduate Research Assistant | Education Department @ UCSB\n\nTopic: Underrepresented Minority Music Students at California Community Colleges\n\nNotetaker | Disabled Students Program @ UCSB\n\nClasses: Programming for Linguists & Computational Linguistics\n\nTutor | AVID Program"
   },
   {
     "objectID": "coursework.html#other-classes-i-enjoyed",
@@ -271,5 +271,12 @@
     "title": "Justin Liu",
     "section": "About Me",
     "text": "About Me\n\nStatistics & Data Science major and Computational Linguistics minor @ UCSB\nIB Diploma Recipient\nInterests: data analysis & visualization, music, Japanese"
+  },
+  {
+    "objectID": "index.html#credit",
+    "href": "index.html#credit",
+    "title": "Justin Liu",
+    "section": "Credit",
+    "text": "Credit\n\nProfile picture by ぬくぬくにぎりめし"
   }
 ]

@@ -16,22 +16,24 @@ about:
 ## About Me
 
 -   **Education:**
-    -   Statistics & Data Science major and Linguistics minor (Speech & Technologies Emphasis) \@ UCSB
-    -   Graduate of the [IB Program](https://www.ibo.org/programmes/diploma-programme/), one of the most rigorous high school curriculums
+    -   [*Waseda University*](https://www.waseda.jp/top/en/)*:* study abroad (current)
+    -   [*UCSB*](https://www.ucsb.edu/): Statistics & Data Science major and Linguistics minor (Speech & Technologies Emphasis)
+    -   [*IB Program*](https://www.ibo.org/programmes/diploma-programme/): one of the most rigorous high school curriculums in the world (Psychology Extended Essay on Second Language Acquisition)
 -   **Interests:** data analysis & visualization, music, Japanese
 
 ## Experience
 
 -   **Undergraduate Learning Assistant** \| PSTAT & CS Departments \@ UCSB
-    -   *Classes supervised:* PSTAT 10 (Data Science Principles) and CS 5A (Introduction to Data Science)
+    -   *Classes supervised:* Data Science Principles (R/SQL) & Introduction to Data Science (Python)
 -   **Sponsored Capstone Member** \| [MOVE Lab](http://move.geog.ucsb.edu/) \@ UCSB
     -   *Topic:* Understanding and Modeling Human Mobility Response to California Wildfires
 -   **Undergraduate Research Assistant** \| [CPLS Lab](https://ucsb-cpls-lab.github.io/) \@ UCSB
     -   *Topic:* Stimuli Redesign for Spanish Proto-lexicon Experiments
 -   **Undergraduate Research Assistant** \| Education Department \@ UCSB
     -   *Topic:* Underrepresented Minority Music Students at California Community Colleges
--   **Notetaker/Proctor** \| Disabled Students Program \@ UCSB
--   **Tutor** \| AVID Program
+-   **Notetaker** \| Disabled Students Program \@ UCSB
+    -   *Classes:* Programming for Linguists & Computational Linguistics
+-   **Tutor** \| [AVID Program](https://www.avid.org/)
 
 ## Technical Skills
 
@@ -39,3 +41,7 @@ about:
 -   **Libraries:** Shiny, ggplot2, tidyverse, tidymodels, Leaflet, NumPy, Pandas, Seaborn, Matplotlib, Altair, Scikit-learn, PySpark, Tensorflow, spaCy
 -   **Developer Tools:** RStudio, Jupyter, VS Code, Git/GitHub, Google Cloud Platform
 -   **Other:** Qualtrics, Google Workspace, Slack
+
+## Credit
+
+-   Profile picture by [ぬくぬくにぎりめし](https://potofu.me/nknkngrms)
