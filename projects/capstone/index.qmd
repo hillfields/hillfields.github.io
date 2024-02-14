@@ -1,0 +1,11 @@
+---
+title: "Understanding and Modeling Human Mobility Response to California Wildfires"
+categories: [R, Python, Research]
+image: img/poi-visits.png
+draft: false
+---
+
+## Links
+
+-   [Individual contribution writeup](../../files/move-capstone-summary.pdf)
+-   [Poster](../../files/move-poster.pdf)

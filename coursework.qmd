@@ -6,8 +6,13 @@ title: "Coursework"
 library(kableExtra)
 
 python_text <- function() text_spec("Python", color = "green")
-
 r_text <- function() text_spec("R", color = "#ff9600")
+sql_text <- function() text_spec("SQL", color = "#5bb0ff")
+max_text <- function() text_spec("Max", color = "#F6BE00")
+java_text <- function() text_spec("Java", color = "red")
+godot_text <- function() text_spec("Godot", color = "purple")
+html_css_text <- function() text_spec("HTML/CSS", color = "#f266ff")
+arcgis_text <- function() text_spec("ArcGIS StoryMaps", color = "#1cc7ba")
 ```
 
 ## Computer Science
@@ -19,7 +24,7 @@ r_text <- function() text_spec("R", color = "#ff9600")
 
 -   **CMPSC 5A-B:** Introduction to Data Science (`r python_text()`)
 -   **EEMB 146:** Biostatistics (`r r_text()`)
--   **PSTAT 10:** Data Science Principles (`r r_text()` & `r text_spec("SQL", color = "#F8766D")`)
+-   **PSTAT 10:** Data Science Principles (`r r_text()` & `r sql_text()`)
 -   **PSTAT 100:** Data Science Concepts and Analysis (`r python_text()`)
 -   **PSTAT 120A-B:** Probability and Statistics
 -   **PSTAT 122:** Design and Analysis of Experiments
@@ -27,7 +32,7 @@ r_text <- function() text_spec("R", color = "#ff9600")
 -   **PSTAT 127:** Advanced Statistical Models (`r r_text()`)
 -   **PSTAT 131:** Statistical Machine Learning (`r r_text()`)
 -   **PSTAT 134:** Statistical Data Science (`r r_text()`)
--   **PSTAT 135:** Big Data Analytics (`r python_text()` & `r text_spec("SQL", color = "#F8766D")`)
+-   **PSTAT 135:** Big Data Analytics (`r python_text()` & `r sql_text()`)
 -   **PSTAT 160A:** Stochastic Processes (`r python_text()`)
 -   **PSTAT 174:** Time Series (`r r_text()`)
 -   **PSTAT 190:** Teaching and Mentoring Statistics and Data Science
@@ -44,10 +49,10 @@ r_text <- function() text_spec("R", color = "#ff9600")
 
 ## Creative Coding
 
--   **ART 22:** Computer Programming for the Arts (`r text_spec("Processing / Java", color = "red")`)
--   **LING 194:** Beyond Duolingo: Digital Games for Language Learning (`r text_spec("Godot", color = "purple")`)
--   **MUS 109CA:** Introduction to Interactive Audio (`r text_spec("Max", color = "#f1c232")`)
--   **RG ST 190DM:** Transnational Buddhism through Digital Mapping (`r text_spec("ArcGIS StoryMaps", color = "#82bef7")`)
+-   **ART 22:** Computer Programming for the Arts (`r java_text()` & `r html_css_text()`)
+-   **LING 194:** Beyond Duolingo: Digital Games for Language Learning (`r godot_text()`)
+-   **MUS 109CA:** Introduction to Interactive Audio (`r max_text()`)
+-   **RG ST 190DM:** Transnational Buddhism through Digital Mapping (`r arcgis_text()`)
 
 ## Linguistics
 
@@ -62,7 +67,6 @@ r_text <- function() text_spec("R", color = "#ff9600")
 ## Other Classes I Enjoyed
 
 -   **C LIT 152:** Digital Humanities Practice (`r python_text()`)
--   **EACS 136:** Children at War
 -   **JAPAN 63:** Sociology of Japan
 -   **JAPAN 165:** Popular Culture in Japan
 -   **MUS 11:** Fundamentals of Music

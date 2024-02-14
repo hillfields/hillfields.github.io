@@ -1,55 +1,8 @@
 ---
 title: "Projects"
+listing: 
+  contents: projects
+  type: grid
+  sort: "title asc"
+  categories: true
 ---
-
-## Research
-
-::: {layout-ncol="2"}
-![Understanding and Modeling Human Mobility Response to California Wildfires \[[summary](files/move-capstone-summary.pdf)\] \[[poster](files/move-poster.pdf)\]](img/poi-visits.png)
-
-![Underrepresented Minority Music Students at California Community Colleges \[[poster](files/murm-poster.pdf)\]](img/murm-survey.png)
-:::
-
-## R
-
-::: {layout-ncol="2"}
-![Clustering Analysis on Country Data \[[vignette](files/clustering-vignette.html)\]](img/map-clusters.png)
-
-![Forecasting Activity Rates in Japan \[[report](files/forecasting-activity-rates.html)\]](img/activity-rate-forecast.png)
-
-![Modeling the 2020 Presidential Election \[[report](files/election-analysis.html)\]](img/election-models.png)
-
-![Anime Score Predictor \[[code](https://github.com/hillfields/predicting-anime-scores)\]](img/anime-score-predictor.gif)
-:::
-
-## Python
-
-::: {layout-ncol="2"}
-![Examining LLM Tweets using NLP \[[Colab](https://colab.research.google.com/drive/11niKxug9SfYIOMzmLKhhsx4Aazbeq7mC?usp=sharing)\]](img/llm-topics.png)
-
-![Lyrics Frequency Visualizer \[[code](https://github.com/hillfields/lyrics-frequency-visualizer)\]](img/lyrics-frequency-chart.png)
-
-![Analyzing UCSB Grades During Remote Instruction \[[report](files/ucsb-pandemic-grades.html)\]](img/departments-grade-diffs.svg)
-
-![Analyzing Voter Turnout in Alaska \[[report](files/voter-turnout.html)\]](img/voter-logistic-coefficients.png)
-
-![Song Genre Classification \[[report](files/song-genre-classification.pdf)\]](img/tbptt.png)
-:::
-
-## Creative Coding
-
-::: {layout-ncol="2"}
-![Art Programming Portfolio (Processing) \[[website](/art22)\]](img/expanded-cinema-project.gif)
-
-![Language Learning Game (Godot) \[[code](https://github.com/aventayolboada/LING194_Class_project_M21)\]](img/language-game.png)
-
-![Interactive Audio Projects (Max) \[[website](mus-109ca.html)\]](img/max-final-project.png)
-
-![Tracing the History of the ABMT (ArcGIS StoryMaps) \[[website](https://storymaps.arcgis.com/stories/48e3c1a6290e4bb1a3fadd5bc979e7f9)\]](img/abmt-map.png)
-:::
-
-## Other
-
-::: {layout-ncol="2"}
-![Zipfinder \[[Devpost](https://devpost.com/software/zipfinder)\]](img/zipfinder.png)
-:::

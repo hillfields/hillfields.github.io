@@ -1,0 +1,10 @@
+---
+title: "Predicting Data Science Salaries"
+categories: [Python]
+image: img/linear-coefficients.png
+draft: false
+---
+
+## Links
+
+-   [Report](../../files/ds-salaries.html)
