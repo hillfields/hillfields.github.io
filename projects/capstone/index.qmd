@@ -1,6 +1,6 @@
 ---
 title: "Understanding and Modeling Human Mobility Response to California Wildfires"
-categories: [R, Python, Research]
+categories: [R, Research]
 image: img/poi-visits.png
 draft: false
 ---

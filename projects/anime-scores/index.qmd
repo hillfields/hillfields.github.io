@@ -1,0 +1,10 @@
+---
+title: "Anime Score Predictor"
+categories: [R]
+image: img/anime-score-predictor.gif
+draft: false
+---
+
+## Links
+
+-   [GitHub repository](https://github.com/hillfields/predicting-anime-scores)

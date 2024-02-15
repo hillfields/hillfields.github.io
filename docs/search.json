@@ -46,7 +46,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Analyzing Voter Turnout in 2016 for Alaska\n\n\n\nPython\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArt Programming Portfolio\n\n\n\nCreative Coding\n\n\nJava\n\n\nWeb Development\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClustering Analysis on Country Data\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExamining the Twitter Discourse Surrounding Large Language Models\n\n\n\nPython\n\n\nNLP\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInvestigating the Effects of the COVID-19 Pandemic on UCSB Grades\n\n\n\nPython\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nModeling Japan’s Activity Rate in the 21st Century\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Data Science Salaries\n\n\n\nPython\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnderstanding and Modeling Human Mobility Response to California Wildfires\n\n\n\nR\n\n\nPython\n\n\nResearch\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Analyzing Voter Turnout in 2016 for Alaska\n\n\n\nPython\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnime Score Predictor\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArt Programming Portfolio\n\n\n\nCreative Coding\n\n\nJava\n\n\nWeb Development\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClustering Analysis on Country Data\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExamining the Twitter Discourse Surrounding Large Language Models\n\n\n\nPython\n\n\nNLP\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInvestigating the Effects of the COVID-19 Pandemic on UCSB Grades\n\n\n\nPython\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nModeling Japan’s Activity Rate in the 21st Century\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Data Science Salaries\n\n\n\nPython\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnderstanding and Modeling Human Mobility Response to California Wildfires\n\n\n\nR\n\n\nResearch\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZipfinder\n\n\n\nPython\n\n\nWeb Development\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects.html#python",
@@ -74,7 +74,7 @@
     "href": "index.html",
     "title": "Justin Liu",
     "section": "",
-    "text": "I enjoy making data interpretable, especially making cool data visualizations and teaching data science concepts. Outside of data science, my interests include learning Japanese and listening to music."
+    "text": "I enjoy making data interpretable, especially making cool data visualizations and teaching data science concepts. In my free time, I like to learn Japanese and listen to music."
   },
   {
     "objectID": "index.html#links",
@@ -985,5 +985,33 @@
     "title": "Analyzing Voter Turnout in 2016 for Alaska",
     "section": "",
     "text": "Report"
+  },
+  {
+    "objectID": "projects/anime-scores/index.html",
+    "href": "projects/anime-scores/index.html",
+    "title": "Anime Score Predictor",
+    "section": "",
+    "text": "GitHub repository"
+  },
+  {
+    "objectID": "projects/anime-scores/index.html#links",
+    "href": "projects/anime-scores/index.html#links",
+    "title": "Anime Score Predictor",
+    "section": "",
+    "text": "GitHub repository"
+  },
+  {
+    "objectID": "projects/zipfinder/index.html",
+    "href": "projects/zipfinder/index.html",
+    "title": "Zipfinder",
+    "section": "",
+    "text": "Devpost"
+  },
+  {
+    "objectID": "projects/zipfinder/index.html#links",
+    "href": "projects/zipfinder/index.html#links",
+    "title": "Zipfinder",
+    "section": "",
+    "text": "Devpost"
   }
 ]
