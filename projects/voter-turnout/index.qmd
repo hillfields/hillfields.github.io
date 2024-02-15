@@ -1,0 +1,10 @@
+---
+title: "Analyzing Voter Turnout in 2016 for Alaska"
+categories: [Python]
+image: img/log-reg-coefs.png
+draft: false
+---
+
+## Links
+
+-   [Report](../../files/voter-turnout.html)
