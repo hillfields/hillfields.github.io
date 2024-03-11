@@ -21,7 +21,7 @@ java_text <- function() text_spec("Java", color = "red")
 html_css_text <- function() text_spec("HTML/CSS", color = "#f266ff")
 ```
 
-I enjoy making data interpretable, especially making cool data visualizations and teaching data science concepts. In my free time, I like to learn Japanese and listen to music.
+I enjoy making data more interpretable, especially making cool data visualizations and teaching data science. In my free time, I like to learn Japanese and listen to music.
 
 ## Education
 

@@ -8,3 +8,9 @@ draft: false
 ## Links
 
 -   [Website](../../art22/index.html)
+
+## Summary
+
+This portfolio is a culmination of what I learned from my art programming class. Although I mainly use Python and R, I was able to transfer my knowledge over to Java. I worked with 
+
+I also designed the website using HTML and CSS, and I really like the way that it turned out. 
