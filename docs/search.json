@@ -809,14 +809,14 @@
     "href": "projects/llm-tweets/index.html",
     "title": "Examining the Twitter Discourse Surrounding Large Language Models",
     "section": "",
-    "text": "This was a project"
+    "text": "Report"
   },
   {
     "objectID": "projects/llm-tweets/index.html#links",
     "href": "projects/llm-tweets/index.html#links",
     "title": "Examining the Twitter Discourse Surrounding Large Language Models",
-    "section": "Links",
-    "text": "Links\n\nReport"
+    "section": "",
+    "text": "Report"
   },
   {
     "objectID": "projects/ucsb-grades/index.html",
@@ -1026,12 +1026,19 @@
     "href": "projects/art-code/index.html#about",
     "title": "Art Programming Portfolio",
     "section": "About",
-    "text": "About\nThis portfolio is a culmination of what I learned from my art programming class, which was taught using the graphics library Processing in Java. To be able to create art from code was an eye-opening experience for me. I could pretty much make whatever I wanted to as long as I could code it. I also designed the website to showcase my work using HTML and CSS.\nOut of all of the projects I made, I am especially fond of the following:\n\nRandomized collage of flowers: When I first came up with the concept of combining different flowers to make a bigger flower, I kept imagining how cool the final product would look like. I spent some time searching for images of flowers that matched what I wanted and cropping them to make them centered.\nShort visual novel: It was initially supposed to only have text, but I kept adding more elements (my own drawings, better design, scrolling text) as I went along.\nGhostkeeper game: This was a group project where we had to incorporate paddles similar to Pong. The result was a game where the user has to keep the ghost from escaping – but the catch is that sometimes the ghost disappears.\nOrbs (below): For every click, an orb appears and connects with all of the previous orbs. The color of the lines also change each time."
+    "text": "About\nThis portfolio is a culmination of what I learned from my art programming class, which was taught using the graphics library Processing in Java. To be able to create art from code was an eye-opening experience for me. I could pretty much make whatever I wanted to as long as I could code it. I also designed the website to showcase my work using HTML and CSS.\nOut of all of the projects I made, I am especially fond of the following:\n\nRandomized collage of flowers: When I first came up with the concept of combining different flowers to make a “new” flower, I kept imagining how cool the final product would look like. I spent some time searching for images of flowers that matched what I wanted and cropping them to make them centered.\nShort visual novel: It was initially supposed to only have text, but I kept adding more elements (my own drawings, better design, scrolling text) as I went along.\nGhostkeeper game: This was a group project where we had to incorporate paddles similar to Pong. The result was a game where the user has to keep the ghost from escaping – but the catch is that sometimes the ghost disappears.\nOrbs (below): For every click, an orb appears and connects with all of the previous orbs. The color of the lines also change each time."
   },
   {
     "objectID": "projects/activity-rate/index.html#about",
     "href": "projects/activity-rate/index.html#about",
     "title": "Modeling Japan’s Activity Rate in the 21st Century",
+    "section": "About",
+    "text": "About"
+  },
+  {
+    "objectID": "projects/ucsb-grades/index.html#about",
+    "href": "projects/ucsb-grades/index.html#about",
+    "title": "Investigating the Effects of the COVID-19 Pandemic on UCSB Grades",
     "section": "About",
     "text": "About"
   }

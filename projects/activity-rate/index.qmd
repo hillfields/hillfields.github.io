@@ -9,5 +9,3 @@ draft: false
 ## Links
 
 -   [Report](../../files/forecasting-activity-rates.html)
-
-## About

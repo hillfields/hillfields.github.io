@@ -9,5 +9,3 @@ draft: false
 ## Links
 
 -   [Report](../../files/ucsb-grades.html)
-
-## About

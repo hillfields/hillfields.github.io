@@ -16,7 +16,7 @@ This portfolio is a culmination of what I learned from my art programming class,
 
 Out of all of the projects I made, I am especially fond of the following:
 
--   [**Randomized collage of flowers**](../../art22/index.html#exercise03)**:** When I first came up with the concept of combining different flowers to make a bigger flower, I kept imagining how cool the final product would look like. I spent some time searching for images of flowers that matched what I wanted and cropping them to make them centered.
+-   [**Randomized collage of flowers**](../../art22/index.html#exercise03)**:** When I first came up with the concept of combining different flowers to make a "new" flower, I kept imagining how cool the final product would look like. I spent some time searching for images of flowers that matched what I wanted and cropping them to make them centered.
 -   [**Short visual novel**](../../art22/index.html#project05)**:** It was initially supposed to only have text, but I kept adding more elements (my own drawings, better design, scrolling text) as I went along.
 -   [**Ghostkeeper game**](../../art22/index.html#project06)**:** This was a group project where we had to incorporate paddles similar to Pong. The result was a game where the user has to keep the ghost from escaping -- but the catch is that sometimes the ghost disappears.
 -   **Orbs (below):** For every click, an orb appears and connects with all of the previous orbs. The color of the lines also change each time.
