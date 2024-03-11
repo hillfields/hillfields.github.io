@@ -1,5 +1,6 @@
 ---
 title: "Investigating the Effects of the COVID-19 Pandemic on UCSB Grades"
+description: "Exploration of the impact of online learning during the pandemic on UCSB students’ grades"
 categories: [Python]
 image: img/departments-grade-diffs.svg
 draft: false
@@ -8,3 +9,5 @@ draft: false
 ## Links
 
 -   [Report](../../files/ucsb-grades.html)
+
+## About

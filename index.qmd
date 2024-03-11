@@ -21,7 +21,7 @@ java_text <- function() text_spec("Java", color = "red")
 html_css_text <- function() text_spec("HTML/CSS", color = "#f266ff")
 ```
 
-I enjoy making data more interpretable, especially making cool data visualizations and teaching data science. In my free time, I like to learn Japanese and listen to music.
+I enjoy making data more interpretable, especially making cool data visualizations and teaching data science. In my free time, I like to learn Japanese, work on puzzles and brain teasers, and listen to music.
 
 ## Education
 
@@ -32,48 +32,17 @@ I enjoy making data more interpretable, especially making cool data visualizatio
 [**UCSB**](https://www.ucsb.edu/)
 
 -   Major in Statistics & Data Science
-
 -   Minor in Linguistics (Speech & Technologies Emphasis)
+-   3-time recipient of the [Creative Computing Scholarship](https://summer.ucsb.edu/courses/course-spotlight/creative-computing)
 
 [**IB Program**](https://www.ibo.org/programmes/diploma-programme/)
 
 -   Rigorous high school curriculum
-
 -   Psychology Extended Essay on Second Language Acquisition
-
-## Experience
-
-**10/2023 - present \| `r text_spec("Data Science Intern", color = "#5bb0ff")` \| [Manzanita](https://www.mnzt.io/)**
-
--   Using NLP & machine learning to better understand consumer psychology
-
-**09/2022 - 06/2023 \| `r text_spec("Undergraduate Learning Assistant", color = "#5bb0ff")` \| [PSTAT](https://www.pstat.ucsb.edu/) & [CS Departments](https://cs.ucsb.edu/) \@ UCSB**
-
--   Provided support for students taking introductory classes in Python, R, and SQL
-
-**01/2023 - 06/2023 \| `r text_spec("Sponsored Capstone Member", color = "#5bb0ff")` \| [MOVE Lab](http://move.geog.ucsb.edu/) \@ UCSB**
-
--   Investigated the impact of Lake Fire (2020) on human movement through spatial data science
-
-**01/2023 - 06/2023 \| `r text_spec("Undergraduate Research Assistant", color = "#5bb0ff")` \| [CPLS Lab](https://ucsb-cpls-lab.github.io/) \@ UCSB**
-
--   Redesigned Spanish language stimuli using Python and language tools for a linguistics study
-
-**01/2022 - 08/2022 \| `r text_spec("Undergraduate Research Assistant", color = "#5bb0ff")` \| [Education Department](https://education.ucsb.edu/academic-programs/dept-of-education/overview) \@ UCSB**
-
--   Assisted PhD student’s research on the effects of participative music experiences on the sense of belonging and persistence of California transfer students
-
-**09/2021 - 03/2022 \| `r text_spec("Notetaker", color = "#5bb0ff")` \| [Disabled Students Program](https://dsp.sa.ucsb.edu/) \@ UCSB**
-
--   Took comprehensive notes on computational linguistics lectures for students with disabilities
-
-**08/2018 - 06/2019 \| `r text_spec("Tutor", color = "#5bb0ff")` \| [AVID Program](https://www.avid.org/)**
-
--   Led homework sessions for students struggling in algebra and geometry
 
 ## Technical Skills
 
-**Languages & Libraries:**
+**Languages & Libraries**
 
 -   `r python_text()` (pandas, NumPy, Seaborn, Matplotlib, Altair, scikit-learn, PySpark, PyTorch, Tensorflow)
 -   `r r_text()` (Shiny, ggplot2, tidyverse, tidymodels, Leaflet)
@@ -81,7 +50,7 @@ I enjoy making data more interpretable, especially making cool data visualizatio
 -   `r html_css_text()`
 -   `r java_text()`
 
-**Developer Tools:**
+**Developer Tools**
 
 -   RStudio
 -   Jupyter

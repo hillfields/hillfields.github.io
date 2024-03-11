@@ -1,5 +1,6 @@
 ---
 title: "Clustering Analysis on Country Data"
+description: "Vignette on implementing clustering methods (hierarchical, model-based, density-based) using unlabeled country data"
 categories: [R]
 image: img/map-clusters.png
 draft: false

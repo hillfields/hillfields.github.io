@@ -1,5 +1,6 @@
 ---
 title: "Anime Score Predictor"
+description: "Shiny app that scrapes MyAnimeList and predicts user scores for any anime entry"
 categories: [R]
 image: img/anime-score-predictor.gif
 draft: false

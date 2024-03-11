@@ -1,5 +1,6 @@
 ---
 title: "Art Programming Portfolio"
+description: "Collection of interactive artwork made with code (Processing)"
 categories: [Creative Coding, Java, Web Development]
 image: img/expanded-cinema-project.gif
 draft: false
@@ -9,8 +10,15 @@ draft: false
 
 -   [Website](../../art22/index.html)
 
-## Summary
+## About
 
-This portfolio is a culmination of what I learned from my art programming class. Although I mainly use Python and R, I was able to transfer my knowledge over to Java. I worked with 
+This portfolio is a culmination of what I learned from my art programming class, which was taught using the graphics library [Processing](https://processing.org/) in Java. To be able to create art from code was an eye-opening experience for me. I could pretty much make whatever I wanted to as long as I could code it. I also designed the website to showcase my work using HTML and CSS.
 
-I also designed the website using HTML and CSS, and I really like the way that it turned out. 
+Out of all of the projects I made, I am especially fond of the following:
+
+-   [**Randomized collage of flowers**](../../art22/index.html#exercise03)**:** When I first came up with the concept of combining different flowers to make a bigger flower, I kept imagining how cool the final product would look like. I spent some time searching for images of flowers that matched what I wanted and cropping them to make them centered.
+-   [**Short visual novel**](../../art22/index.html#project05)**:** It was initially supposed to only have text, but I kept adding more elements (my own drawings, better design, scrolling text) as I went along.
+-   [**Ghostkeeper game**](../../art22/index.html#project06)**:** This was a group project where we had to incorporate paddles similar to Pong. The result was a game where the user has to keep the ghost from escaping -- but the catch is that sometimes the ghost disappears.
+-   **Orbs (below):** For every click, an orb appears and connects with all of the previous orbs. The color of the lines also change each time.
+
+![](img/orbs.gif){fig-align="center" width="50%"}

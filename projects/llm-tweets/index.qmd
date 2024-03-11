@@ -1,5 +1,6 @@
 ---
 title: "Examining the Twitter Discourse Surrounding Large Language Models"
+description: "Topic modeling and sentiment analysis on tweets about ChatGPT and other LLMs"
 categories: [Python, NLP]
 image: img/tweet-topics.png
 draft: false

@@ -46,7 +46,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Anime Score Predictor\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArt Programming Portfolio\n\n\n\nCreative Coding\n\n\nJava\n\n\nWeb Development\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClustering Analysis on Country Data\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExamining the Twitter Discourse Surrounding Large Language Models\n\n\n\nPython\n\n\nNLP\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInvestigating the Effects of the COVID-19 Pandemic on UCSB Grades\n\n\n\nPython\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nModeling Japan’s Activity Rate in the 21st Century\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Data Science Salaries\n\n\n\nPython\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnderstanding and Modeling Human Mobility Response to California Wildfires\n\n\n\nR\n\n\nResearch\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZipfinder\n\n\n\nPython\n\n\nWeb Development\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Anime Score Predictor\n\n\n\nR\n\n\n\nShiny app that scrapes MyAnimeList and predicts user scores for any anime entry\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArt Programming Portfolio\n\n\n\nCreative Coding\n\n\nJava\n\n\nWeb Development\n\n\n\nCollection of interactive artwork made with code (Processing)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClustering Analysis on Country Data\n\n\n\nR\n\n\n\nVignette on implementing clustering methods (hierarchical, model-based, density-based) using unlabeled country data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExamining the Twitter Discourse Surrounding Large Language Models\n\n\n\nPython\n\n\nNLP\n\n\n\nTopic modeling and sentiment analysis on tweets about ChatGPT and other LLMs\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInvestigating the Effects of the COVID-19 Pandemic on UCSB Grades\n\n\n\nPython\n\n\n\nExploration of the impact of online learning during the pandemic on UCSB students’ grades\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nModeling Japan’s Activity Rate in the 21st Century\n\n\n\nR\n\n\n\nTime series forecasting on Japan’s monthly activity rates from 2000-2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Data Science Salaries\n\n\n\nPython\n\n\n\nAnalysis of how data science salaries vary using linear, ensemble, and deep learning approaches\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnderstanding and Modeling Human Mobility Response to California Wildfires\n\n\n\nR\n\n\nResearch\n\n\n\nCapstone project on the effects of Lake Fire (2020) on human movement\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZipfinder\n\n\n\nPython\n\n\nWeb Development\n\n\n\nApp for getting randomized location recommendations based on a city or zip code\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects.html#python",
@@ -74,7 +74,7 @@
     "href": "index.html",
     "title": "Justin Liu",
     "section": "",
-    "text": "I enjoy making data more interpretable, especially making cool data visualizations and teaching data science. In my free time, I like to learn Japanese and listen to music."
+    "text": "I enjoy making data more interpretable, especially making cool data visualizations and teaching data science. In my free time, I like to learn Japanese, work on puzzles and brain teasers, and listen to music."
   },
   {
     "objectID": "index.html#links",
@@ -193,7 +193,7 @@
     "href": "index.html#experience",
     "title": "Justin Liu",
     "section": "Experience",
-    "text": "Experience\n10/2023 - present | Data Science Intern | Manzanita\n\nUsing NLP & machine learning to better understand consumer psychology\n\n09/2022 - 06/2023 | Undergraduate Learning Assistant | PSTAT & CS Departments @ UCSB\n\nProvided support for students taking introductory classes in Python, R, and SQL\n\n01/2023 - 06/2023 | Sponsored Capstone Member | MOVE Lab @ UCSB\n\nInvestigated the impact of Lake Fire (2020) on human movement through spatial data science\n\n01/2023 - 06/2023 | Undergraduate Research Assistant | CPLS Lab @ UCSB\n\nRedesigned Spanish language stimuli using Python and language tools for a linguistics study\n\n01/2022 - 08/2022 | Undergraduate Research Assistant | Education Department @ UCSB\n\nAssisted PhD student’s research on the effects of participative music experiences on the sense of belonging and persistence of California transfer students\n\n09/2021 - 03/2022 | Notetaker | Disabled Students Program @ UCSB\n\nTook comprehensive notes on computational linguistics lectures for students with disabilities\n\n08/2018 - 06/2019 | Tutor | AVID Program\n\nLed homework sessions for students struggling in algebra and geometry"
+    "text": "Experience\n10/2023 - present | Data Science Intern | Manzanita\n\nCombining NLP & machine learning with psychology to improve marketing\n\n09/2022 - 06/2023 | Undergraduate Learning Assistant | PSTAT & CS Departments @ UCSB\n\nProvided academic support for students taking introductory classes in Python, R, and SQL\n\n01/2023 - 06/2023 | Sponsored Capstone Member | MOVE Lab @ UCSB\n\nInvestigated the impact of Lake Fire (2020) on human movement through spatial data science\n\n01/2023 - 06/2023 | Undergraduate Research Assistant | CPLS Lab @ UCSB\n\nRedesigned Spanish language stimuli using Python and language tools for a linguistics study\n\n01/2022 - 08/2022 | Undergraduate Research Assistant | Education Department @ UCSB\n\nAssisted PhD student’s research on the effects of participative music experiences on the sense of belonging and persistence of California transfer students\n\n09/2021 - 03/2022 | Notetaker | Disabled Students Program @ UCSB\n\nTook comprehensive notes on computational linguistics lectures for students with disabilities\n\n08/2018 - 06/2019 | Tutor | AVID Program\n\nLed homework sessions for students struggling in algebra and geometry"
   },
   {
     "objectID": "coursework.html#other-classes-i-enjoyed",
@@ -263,7 +263,7 @@
     "href": "index.html#technical-skills",
     "title": "Justin Liu",
     "section": "Technical Skills",
-    "text": "Technical Skills\nLanguages & Libraries:\n\nPython (pandas, NumPy, Seaborn, Matplotlib, Altair, scikit-learn, PySpark, PyTorch, Tensorflow)\nR (Shiny, ggplot2, tidyverse, tidymodels, Leaflet)\nSQL\nHTML/CSS\nJava\n\nDeveloper Tools:\n\nRStudio\nJupyter\nVS Code\nGit/GitHub\nQuarto (what this website is built on)"
+    "text": "Technical Skills\nLanguages & Libraries\n\nPython (pandas, NumPy, Seaborn, Matplotlib, Altair, scikit-learn, PySpark, PyTorch, Tensorflow)\nR (Shiny, ggplot2, tidyverse, tidymodels, Leaflet)\nSQL\nHTML/CSS\nJava\n\nDeveloper Tools\n\nRStudio\nJupyter\nVS Code\nGit/GitHub\nQuarto (what this website is built on)"
   },
   {
     "objectID": "index.html#about-me",
@@ -284,7 +284,7 @@
     "href": "index.html#education",
     "title": "Justin Liu",
     "section": "Education",
-    "text": "Education\nWaseda University (current)\n\nOne-year study abroad immersion program (English & Japanese)\n\nUCSB\n\nMajor in Statistics & Data Science\nMinor in Linguistics (Speech & Technologies Emphasis)\n\nIB Program\n\nRigorous high school curriculum\nPsychology Extended Essay on Second Language Acquisition"
+    "text": "Education\nWaseda University (current)\n\nOne-year study abroad immersion program (English & Japanese)\n\nUCSB\n\nMajor in Statistics & Data Science\nMinor in Linguistics (Speech & Technologies Emphasis)\n3-time recipient of the Creative Computing Scholarship\n\nIB Program\n\nRigorous high school curriculum\nPsychology Extended Essay on Second Language Acquisition"
   },
   {
     "objectID": "test.html",
@@ -1013,5 +1013,26 @@
     "title": "Zipfinder",
     "section": "",
     "text": "Devpost"
+  },
+  {
+    "objectID": "projects/art-code/index.html#summary",
+    "href": "projects/art-code/index.html#summary",
+    "title": "Art Programming Portfolio",
+    "section": "Summary",
+    "text": "Summary\nThis portfolio is a culmination of what I learned from my art programming class, which was taught using the graphics library Processing in Java. To be able to create art from code was a new experience for me. I could pretty much make whatever I wanted to as long as I could code it.\nOut of all of the projects I made, I am especially fond of the following:\n\nRandomized collage of flowers: When I came up with the concept, I just thought it’d be so cool to look at. I spent a while searching for images of flowers that matched what I wanted and cropping them to make them centered.\nShort visual novel: It was initially supposed to only have text, but I kept adding more elements (my own drawings, better design, scrolling text) as I went along.\nGhostkeeper game: This was a group project where we had to incorporate paddles similar to Pong. The result was a game where the user has to keep the ghost from escaping – but the catch is that sometimes the ghost disappears.\nOrbs (below): For every click, an orb appears and connects with all of the previous orbs. The color of the lines also change each time.\n\n\n\n\n\n\nI also designed the website to showcase my work from scratch using HTML and CSS."
+  },
+  {
+    "objectID": "projects/art-code/index.html#about",
+    "href": "projects/art-code/index.html#about",
+    "title": "Art Programming Portfolio",
+    "section": "About",
+    "text": "About\nThis portfolio is a culmination of what I learned from my art programming class, which was taught using the graphics library Processing in Java. To be able to create art from code was an eye-opening experience for me. I could pretty much make whatever I wanted to as long as I could code it. I also designed the website to showcase my work using HTML and CSS.\nOut of all of the projects I made, I am especially fond of the following:\n\nRandomized collage of flowers: When I first came up with the concept of combining different flowers to make a bigger flower, I kept imagining how cool the final product would look like. I spent some time searching for images of flowers that matched what I wanted and cropping them to make them centered.\nShort visual novel: It was initially supposed to only have text, but I kept adding more elements (my own drawings, better design, scrolling text) as I went along.\nGhostkeeper game: This was a group project where we had to incorporate paddles similar to Pong. The result was a game where the user has to keep the ghost from escaping – but the catch is that sometimes the ghost disappears.\nOrbs (below): For every click, an orb appears and connects with all of the previous orbs. The color of the lines also change each time."
+  },
+  {
+    "objectID": "projects/activity-rate/index.html#about",
+    "href": "projects/activity-rate/index.html#about",
+    "title": "Modeling Japan’s Activity Rate in the 21st Century",
+    "section": "About",
+    "text": "About"
   }
 ]
