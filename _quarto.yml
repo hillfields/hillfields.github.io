@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Justin Liu"
+  favicon: files/icon.png
   navbar:
     left:
       - href: index.qmd
