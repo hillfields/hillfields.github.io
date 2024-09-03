@@ -6,9 +6,6 @@ about:
     - icon: github
       text: Github
       href: https://github.com/hillfields
-    - icon: envelope
-      text: Email
-      href: mailto:justintliu@ucsb.edu
 ---
 
 ```{r, include=FALSE}
@@ -22,23 +19,6 @@ html_css_text <- function() text_spec("HTML/CSS", color = "#f266ff")
 ```
 
 I enjoy making data more interpretable, especially making cool data visualizations and teaching data science. In my free time, I like to learn Japanese, work on puzzles and brain teasers, and listen to music.
-
-## Education
-
-[**Waseda University**](https://www.waseda.jp/top/en/) **(current)**
-
--   One-year study abroad immersion program (English & Japanese)
-
-[**UCSB**](https://www.ucsb.edu/)
-
--   Major in Statistics & Data Science
--   Minor in Linguistics (Speech & Technologies Emphasis)
--   3-time recipient of the [Creative Computing Scholarship](https://summer.ucsb.edu/courses/course-spotlight/creative-computing)
-
-[**IB Program**](https://www.ibo.org/programmes/diploma-programme/)
-
--   Rigorous high school curriculum
--   Psychology Extended Essay on Second Language Acquisition
 
 ## Technical Skills
 
