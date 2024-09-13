@@ -74,7 +74,7 @@
     "href": "index.html",
     "title": "Justin Liu",
     "section": "",
-    "text": "I enjoy making data more interpretable, especially making cool data visualizations and teaching data science. In my free time, I like to learn Japanese, work on puzzles and brain teasers, and listen to music."
+    "text": "Hello and welcome to my website!\nAs a data science student, I enjoy making sense of our complex world through numbers and models. My interests include working with a wide variety of datasets, making cool data visualizations, and teaching data science, just to name a few. I also studied computational linguistics and have experience fine-tuning large language models. Check out some of my work by clicking on the Projects tab above!\nIn my free time, I like to learn Japanese, work on puzzles and brain teasers, play video games (mainly Honkai: Star Rail), and listen to music!"
   },
   {
     "objectID": "index.html#links",
@@ -263,7 +263,7 @@
     "href": "index.html#technical-skills",
     "title": "Justin Liu",
     "section": "Technical Skills",
-    "text": "Technical Skills\nLanguages & Libraries\n\nPython (pandas, NumPy, Seaborn, Matplotlib, Altair, scikit-learn, PySpark, PyTorch, Tensorflow)\nR (Shiny, ggplot2, tidyverse, tidymodels, Leaflet)\nSQL\nHTML/CSS\nJava\n\nDeveloper Tools\n\nRStudio\nJupyter\nVS Code\nGit/GitHub\nQuarto (what this website is built on)"
+    "text": "Technical Skills\nProgramming & Libraries\n\nPython (pandas, NumPy, Seaborn, Matplotlib, Altair, scikit-learn, PySpark, PyTorch, Tensorflow)\nR (Shiny, ggplot2, tidyverse, tidymodels, Leaflet)\nSQL\nHTML/CSS\nJava\n\nDeveloper Tools\n\nRStudio\nJupyter\nGit/GitHub\nVS Code\nQuarto\nGoogle Workspace"
   },
   {
     "objectID": "index.html#about-me",
@@ -1041,5 +1041,12 @@
     "title": "Investigating the Effects of the COVID-19 Pandemic on UCSB Grades",
     "section": "About",
     "text": "About"
+  },
+  {
+    "objectID": "index.html#relevant-coursework",
+    "href": "index.html#relevant-coursework",
+    "title": "Justin Liu",
+    "section": "Relevant Coursework",
+    "text": "Relevant Coursework\n\nData Science Principles (R & SQL)\nProbability and Statistics\nRegression Analysis\nMachine Learning\nAdvanced Statistical Models\nIntermediate Python\nTime Series\nTeaching and Mentoring Statistics and Data Science\nData Science Capstone\nBig Data Analytics\nComputational Linguistics"
   }
 ]

@@ -8,32 +8,41 @@ about:
       href: https://github.com/hillfields
 ---
 
-```{r, include=FALSE}
-library(kableExtra)
+Hello and welcome to my website!
 
-python_text <- function() text_spec("Python", color = "green")
-r_text <- function() text_spec("R", color = "#ff9600")
-sql_text <- function() text_spec("SQL", color = "#5bb0ff")
-java_text <- function() text_spec("Java", color = "red")
-html_css_text <- function() text_spec("HTML/CSS", color = "#f266ff")
-```
+As a data science student, I enjoy making sense of our complex world through numbers and models. My interests include working with a wide variety of datasets, making cool data visualizations, and teaching data science, just to name a few. I also studied computational linguistics and have experience fine-tuning large language models. Check out some of my work by clicking on the **Projects** tab above!
 
-I enjoy making data more interpretable, especially making cool data visualizations and teaching data science. In my free time, I like to learn Japanese, work on puzzles and brain teasers, and listen to music.
+In my free time, I like to learn Japanese, work on puzzles and brain teasers, play video games (mainly Honkai: Star Rail), and listen to music!
+
+## Relevant Coursework
+
+-   Data Science Principles (R & SQL)
+-   Probability and Statistics
+-   Regression Analysis
+-   Machine Learning
+-   Advanced Statistical Models
+-   Intermediate Python
+-   Time Series
+-   Teaching and Mentoring Statistics and Data Science
+-   Data Science Capstone
+-   Big Data Analytics
+-   Computational Linguistics
 
 ## Technical Skills
 
-**Languages & Libraries**
+**Programming & Libraries**
 
--   `r python_text()` (pandas, NumPy, Seaborn, Matplotlib, Altair, scikit-learn, PySpark, PyTorch, Tensorflow)
--   `r r_text()` (Shiny, ggplot2, tidyverse, tidymodels, Leaflet)
--   `r sql_text()`
--   `r html_css_text()`
--   `r java_text()`
+-   Python (pandas, NumPy, Seaborn, Matplotlib, Altair, scikit-learn, PySpark, PyTorch, Tensorflow)
+-   R (Shiny, ggplot2, tidyverse, tidymodels, Leaflet)
+-   SQL
+-   HTML/CSS
+-   Java
 
 **Developer Tools**
 
 -   RStudio
 -   Jupyter
--   VS Code
 -   Git/GitHub
--   Quarto (what this website is built on)
+-   VS Code
+-   Quarto
+-   Google Workspace
