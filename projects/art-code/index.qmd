@@ -6,7 +6,7 @@ image: img/expanded-cinema-project.gif
 draft: false
 ---
 
-## Links
+## Link
 
 -   [Website](../../art22/index.html)
 

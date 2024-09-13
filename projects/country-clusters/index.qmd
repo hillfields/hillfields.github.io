@@ -9,3 +9,14 @@ draft: false
 ## Links
 
 -   [Vignette](../../files/clustering-vignette.html)
+-   [GitHub repository](https://github.com/pstat197/vignette-clustering-methods)
+
+## About
+
+This is a vignette (essentially a step-by-step guide) that uses unlabeled country data to demonstrate the following clustering methods:
+
+-   **Hierarchical (Euclidean distance):** clusters are formed based on the distance between observations
+-   **Model-based (Gaussian mixture models):** clusters are formed based on a probability distribution
+-   **Density-based clustering (DBSCAN):** clusters are formed where many points are close together
+
+Overall, the model-based clustering method gave us the most detailed clusters (groups based on socio-economic and health conditions) while still maintaining a good level of interpretability.

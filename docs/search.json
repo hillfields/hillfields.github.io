@@ -865,14 +865,14 @@
     "href": "projects/country-clusters/index.html",
     "title": "Clustering Analysis on Country Data",
     "section": "",
-    "text": "Vignette"
+    "text": "Vignette\nGitHub repository"
   },
   {
     "objectID": "projects/country-clusters/index.html#links",
     "href": "projects/country-clusters/index.html#links",
     "title": "Clustering Analysis on Country Data",
     "section": "",
-    "text": "Vignette"
+    "text": "Vignette\nGitHub repository"
   },
   {
     "objectID": "files/mus-109ca.html",
@@ -1048,5 +1048,26 @@
     "title": "Justin Liu",
     "section": "Relevant Coursework",
     "text": "Relevant Coursework\n\nData Science Principles (R & SQL)\nProbability and Statistics\nRegression Analysis\nMachine Learning\nAdvanced Statistical Models\nIntermediate Python\nTime Series\nTeaching and Mentoring Statistics and Data Science\nData Science Capstone\nBig Data Analytics\nComputational Linguistics"
+  },
+  {
+    "objectID": "projects/country-clusters/index.html#abstract",
+    "href": "projects/country-clusters/index.html#abstract",
+    "title": "Clustering Analysis on Country Data",
+    "section": "Abstract",
+    "text": "Abstract\nClustering refers to the idea of partitioning observations from a data set into distinct groups without being given the labels beforehand. As an unsupervised learning technique, the goal of clustering is not to generate predictions but rather to draw inferences from the data. For our topic, we specialized in three different types of clustering methods. In hierarchical clustering, the distance between observations determines which cluster each observation falls into – we use the Euclidean distance as our metric. In model-based clustering, clusters are formed based on a probability distribution – we demonstrate this using Gaussian mixture models. In density-based clustering, the data is grouped in areas where many points are close together – we use DBSCAN to illustrate this. Unlike model-based clustering, density-based clustering is a non-parametric method since it does not assume that the points come from a predetermined probability distribution. We implemented these 3 methods to perform unsupervised classification on an unlabeled country data set. Overall, we found that model-based clustering gave us the most detailed clusters while still maintaining a good level of interpretability."
+  },
+  {
+    "objectID": "projects/country-clusters/index.html#about",
+    "href": "projects/country-clusters/index.html#about",
+    "title": "Clustering Analysis on Country Data",
+    "section": "About",
+    "text": "About\nThis is a vignette (essentially a step-by-step guide) that uses unlabeled country data to demonstrate the following clustering methods:\n\nHierarchical (Euclidean distance): clusters are formed based on the distance between observations\nModel-based (Gaussian mixture models): clusters are formed based on a probability distribution\nDensity-based clustering (DBSCAN): clusters are formed where many points are close together\n\nOverall, the model-based clustering method gave us the most detailed clusters (groups based on socio-economic and health conditions) while still maintaining a good level of interpretability."
+  },
+  {
+    "objectID": "projects/art-code/index.html#link",
+    "href": "projects/art-code/index.html#link",
+    "title": "Art Programming Portfolio",
+    "section": "",
+    "text": "Website"
   }
 ]
