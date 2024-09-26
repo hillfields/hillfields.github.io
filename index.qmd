@@ -10,9 +10,9 @@ about:
 
 Hello and welcome to my website!
 
-As a data science student, I enjoy making sense of our complex world through numbers and models. My interests include working with a wide variety of datasets, making cool data visualizations, and teaching data science, just to name a few. I also studied computational linguistics and have experience fine-tuning large language models. Check out some of my work by clicking on the **Projects** tab above!
+As a data science student, I enjoy making sense of our complex world through numbers and models. My interests include working with all sorts of datasets, making cool data visualizations, and teaching data science, just to name a few. I also studied computational linguistics and have experience fine-tuning large language models.
 
-In my free time, I like to learn Japanese, work on puzzles and brain teasers, play video games (mainly Honkai: Star Rail), and listen to music!
+In my free time, I like to learn Japanese, work on puzzles and brain teasers, and listen to music!
 
 ## Relevant Coursework
 
@@ -40,9 +40,10 @@ In my free time, I like to learn Japanese, work on puzzles and brain teasers, pl
 
 **Developer Tools**
 
+-   Tableau
 -   RStudio
 -   Jupyter
 -   Git/GitHub
--   VS Code
+-   Visual Studio Code
 -   Quarto
 -   Google Workspace
