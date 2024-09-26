@@ -1,7 +1,7 @@
 ---
 title: "Modeling Japan’s Activity Rate in the 21st Century"
 description: "Time series forecasting on Japan's monthly activity rates from 2000-2021"
-categories: [R]
+categories: [R, ML]
 image: img/activity-rate-forecast.png
 draft: false
 ---

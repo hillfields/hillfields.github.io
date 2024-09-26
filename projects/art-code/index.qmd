@@ -1,7 +1,7 @@
 ---
 title: "Art Programming Portfolio"
 description: "Collection of interactive artwork made with code (Processing)"
-categories: [Creative Coding, Java, Web Development]
+categories: [Creative Coding, Java, HTML/CSS]
 image: img/expanded-cinema-project.gif
 draft: false
 ---

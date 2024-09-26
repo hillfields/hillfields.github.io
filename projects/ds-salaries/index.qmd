@@ -1,7 +1,7 @@
 ---
 title: "Predicting Data Science Salaries"
 description: "Analysis of how data science salaries vary using linear, ensemble, and deep learning approaches"
-categories: [Python]
+categories: [Python, ML]
 image: img/linear-coefficients.png
 draft: false
 ---

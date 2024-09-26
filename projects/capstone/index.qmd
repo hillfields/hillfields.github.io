@@ -1,7 +1,7 @@
 ---
 title: "Understanding and Modeling Human Mobility Response to California Wildfires"
 description: "Capstone project on the effects of Lake Fire (2020) on human movement"
-categories: [R, Research]
+categories: [R, Research, ML]
 image: img/poi-visits.png
 draft: false
 ---
