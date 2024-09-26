@@ -8,4 +8,4 @@ draft: false
 
 ## Links
 
--   [Report](../../files/llm-tweets.html)
+-   [Report](../../notebooks/llm-tweets.html)

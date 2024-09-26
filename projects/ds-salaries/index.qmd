@@ -8,4 +8,4 @@ draft: false
 
 ## Links
 
--   [Report](../../files/ds-salaries.html)
+-   [Report](../../notebooks/ds-salaries.html)
