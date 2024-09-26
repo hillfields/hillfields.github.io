@@ -1,0 +1,11 @@
+---
+title: "Analyzing Voter Turnout in 2016 for Alaska"
+description: "Analysis on the effect of election demographics on voter turnout using hypothesis testing and machine learning"
+categories: [Python]
+image: img/log-reg-coefs.png
+draft: false
+---
+
+## Links
+
+-   [Report](../../notebooks/voter-turnout.html)
