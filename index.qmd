@@ -10,9 +10,9 @@ about:
 
 Hello and welcome to my website!
 
-As a data science student, I enjoy making sense of our complex world through numbers and models. My interests include working with all sorts of datasets, making cool data visualizations, and teaching data science, just to name a few. I also studied computational linguistics and have experience fine-tuning large language models.
+I enjoy making sense of our complex world through numbers and models. My interests include making interpretable data visualizations, training machine learning models, and teaching data science, just to name a few. I also studied computational linguistics and have experience working with large language models.
 
-In my free time, I like to learn Japanese, work on puzzles and brain teasers, and listen to music!
+In my free time, I enjoy learning Japanese, tinkering with puzzles, and listening to music!
 
 ## Relevant Coursework
 
@@ -21,7 +21,7 @@ In my free time, I like to learn Japanese, work on puzzles and brain teasers, an
 -   Regression Analysis
 -   Machine Learning
 -   Advanced Statistical Models
--   Intermediate Python
+-   Data Structures & Algorithms (Python)
 -   Time Series
 -   Teaching and Mentoring Statistics and Data Science
 -   Data Science Capstone
@@ -32,18 +32,18 @@ In my free time, I like to learn Japanese, work on puzzles and brain teasers, an
 
 **Programming & Libraries**
 
--   Python (pandas, NumPy, Seaborn, Matplotlib, Altair, scikit-learn, PySpark, PyTorch, Tensorflow)
+-   Python (Pandas, NumPy, Seaborn, Matplotlib, Altair, sklearn, PySpark, PyTorch, Tensorflow, Hugging Face)
 -   R (Shiny, ggplot2, tidyverse, tidymodels, Leaflet)
 -   SQL
 -   HTML/CSS
 -   Java
 
-**Developer Tools**
+**Tools**
 
 -   Tableau
+-   Microsoft Office (Word, Excel, PowerPoint)
+-   Google Workspace (Docs, Sheets, Slides)
 -   RStudio
 -   Jupyter
--   Git/GitHub
 -   Visual Studio Code
--   Quarto
--   Google Workspace
+-   Git/GitHub

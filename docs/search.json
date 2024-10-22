@@ -102,21 +102,21 @@
     "href": "index.html",
     "title": "Justin Liu",
     "section": "",
-    "text": "Hello and welcome to my website!\nAs a data science student, I enjoy making sense of our complex world through numbers and models. My interests include working with all sorts of datasets, making cool data visualizations, and teaching data science, just to name a few. I also studied computational linguistics and have experience fine-tuning large language models.\nIn my free time, I like to learn Japanese, work on puzzles and brain teasers, and listen to music!"
+    "text": "Hello and welcome to my website!\nI enjoy making sense of our complex world through numbers and models. My interests include making interpretable data visualizations, training machine learning models, and teaching data science, just to name a few. I also studied computational linguistics and have experience working with large language models.\nIn my free time, I enjoy learning Japanese, tinkering with puzzles, and listening to music!"
   },
   {
     "objectID": "index.html#relevant-coursework",
     "href": "index.html#relevant-coursework",
     "title": "Justin Liu",
     "section": "Relevant Coursework",
-    "text": "Relevant Coursework\n\nData Science Principles (R & SQL)\nProbability and Statistics\nRegression Analysis\nMachine Learning\nAdvanced Statistical Models\nIntermediate Python\nTime Series\nTeaching and Mentoring Statistics and Data Science\nData Science Capstone\nBig Data Analytics\nComputational Linguistics"
+    "text": "Relevant Coursework\n\nData Science Principles (R & SQL)\nProbability and Statistics\nRegression Analysis\nMachine Learning\nAdvanced Statistical Models\nData Structures & Algorithms (Python)\nTime Series\nTeaching and Mentoring Statistics and Data Science\nData Science Capstone\nBig Data Analytics\nComputational Linguistics"
   },
   {
     "objectID": "index.html#technical-skills",
     "href": "index.html#technical-skills",
     "title": "Justin Liu",
     "section": "Technical Skills",
-    "text": "Technical Skills\nProgramming & Libraries\n\nPython (pandas, NumPy, Seaborn, Matplotlib, Altair, scikit-learn, PySpark, PyTorch, Tensorflow)\nR (Shiny, ggplot2, tidyverse, tidymodels, Leaflet)\nSQL\nHTML/CSS\nJava\n\nDeveloper Tools\n\nTableau\nRStudio\nJupyter\nGit/GitHub\nVisual Studio Code\nQuarto\nGoogle Workspace"
+    "text": "Technical Skills\nProgramming & Libraries\n\nPython (Pandas, NumPy, Seaborn, Matplotlib, Altair, sklearn, PySpark, PyTorch, Tensorflow, Hugging Face)\nR (Shiny, ggplot2, tidyverse, tidymodels, Leaflet)\nSQL\nHTML/CSS\nJava\n\nTools\n\nTableau\nMicrosoft Office (Word, Excel, PowerPoint)\nGoogle Workspace (Docs, Sheets, Slides)\nRStudio\nJupyter\nVisual Studio Code\nGit/GitHub"
   },
   {
     "objectID": "projects/llm-tweets/index.html",
