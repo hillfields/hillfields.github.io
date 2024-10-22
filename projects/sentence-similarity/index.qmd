@@ -1,0 +1,12 @@
+---
+title: "Fine-Tuning BERT to Understand Semantic Textual Relatedness"
+description: "Training BERT to learn how sentences are similar in meaning"
+categories: [Python, NLP]
+image: img/bert-plots.png
+draft: false
+---
+
+## Links
+
+-   [Code](../../notebooks/sentence-similarity.html)
+-   [Presentation](../../files/sentence-similarity.pdf)
