@@ -6,6 +6,6 @@ image: img/linear-coefficients.png
 draft: false
 ---
 
-## Links
+## Link
 
 -   [Report](../../notebooks/ds-salaries.html)

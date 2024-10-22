@@ -6,6 +6,6 @@ image: img/anime-score-predictor.gif
 draft: false
 ---
 
-## Links
+## Link
 
 -   [GitHub repository](https://github.com/hillfields/predicting-anime-scores)

@@ -6,6 +6,6 @@ image: img/activity-rate-forecast.png
 draft: false
 ---
 
-## Links
+## Link
 
 -   [Report](../../files/forecasting-activity-rates.html)

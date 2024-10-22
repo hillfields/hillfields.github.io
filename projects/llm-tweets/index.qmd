@@ -6,6 +6,6 @@ image: img/tweet-topics.png
 draft: false
 ---
 
-## Links
+## Link
 
 -   [Report](../../notebooks/llm-tweets.html)

@@ -6,6 +6,6 @@ image: img/log-reg-coefs.png
 draft: false
 ---
 
-## Links
+## Link
 
 -   [Report](../../notebooks/voter-turnout.html)

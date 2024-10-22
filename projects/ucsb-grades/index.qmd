@@ -6,6 +6,6 @@ image: img/departments-grade-diffs.svg
 draft: false
 ---
 
-## Links
+## Link
 
 -   [Report](../../files/ucsb-grades.html)
