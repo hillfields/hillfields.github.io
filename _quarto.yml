@@ -19,6 +19,7 @@ website:
         text: Home
       - projects.qmd
   search: false
+  google-analytics: "G-ZN184D6GCQ"
 
 format:
   html:
